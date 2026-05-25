@@ -1,0 +1,409 @@
+menu_id,rest_stop_id,store_name,menu_name,category,price_krw,is_signature,is_recommended,operating_hours,description,sample_rating
+RS001_M01,RS001,Korean Food Court,Seoul Gateway Bibimbap,Korean Food,10700,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.0
+RS001_M02,RS001,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9700,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.1
+RS001_M03,RS001,Korean Food Court,Pork Cutlet Plate,Western / Korean,10000,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.2
+RS001_M04,RS001,Korean Food Court,Kimchi Stew Set,Korean Food,8700,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.3
+RS001_M05,RS001,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7200,False,True,07:00–21:00,Warm udon soup for quick meals.,4.4
+RS001_M06,RS001,Noodle & Soup Bar,Spicy Ramen,Noodles,5700,False,False,07:00–21:00,Simple spicy ramen.,4.5
+RS001_M07,RS001,Snack Corner,Tteokbokki Cup,Snacks,4700,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.6
+RS001_M08,RS001,Snack Corner,Hot Dog,Snacks,4200,False,False,Open 24 hours,Classic highway snack.,3.8
+RS001_M09,RS001,Snack Corner,Walnut Pastry,Dessert,3700,False,True,Open 24 hours,Small sweet pastry snack.,3.9
+RS001_M10,RS001,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.0
+RS001_M11,RS001,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3400,False,False,07:00–21:00,Soft bread with red bean filling.,4.1
+RS001_M12,RS001,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.2
+RS002_M01,RS002,Korean Food Court,Jukjeon Quick Breakfast Plate,Korean Food,10900,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.1
+RS002_M02,RS002,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9900,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.2
+RS002_M03,RS002,Korean Food Court,Pork Cutlet Plate,Western / Korean,10200,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.3
+RS002_M04,RS002,Korean Food Court,Kimchi Stew Set,Korean Food,8900,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.4
+RS002_M05,RS002,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7400,False,True,07:00–21:00,Warm udon soup for quick meals.,4.5
+RS002_M06,RS002,Noodle & Soup Bar,Spicy Ramen,Noodles,5900,False,False,07:00–21:00,Simple spicy ramen.,4.6
+RS002_M07,RS002,Snack Corner,Tteokbokki Cup,Snacks,4900,False,False,Open 24 hours,Spicy rice cakes in a cup.,3.8
+RS002_M08,RS002,Snack Corner,Hot Dog,Snacks,4400,False,False,Open 24 hours,Classic highway snack.,3.9
+RS002_M09,RS002,Snack Corner,Walnut Pastry,Dessert,3900,False,True,Open 24 hours,Small sweet pastry snack.,4.0
+RS002_M10,RS002,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.1
+RS002_M11,RS002,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3600,False,False,07:00–21:00,Soft bread with red bean filling.,4.2
+RS002_M12,RS002,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.3
+RS003_M01,RS003,Korean Food Court,Giheung Spicy Pork Rice,Korean Food,11100,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.2
+RS003_M02,RS003,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,10100,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.3
+RS003_M03,RS003,Korean Food Court,Pork Cutlet Plate,Western / Korean,10400,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.4
+RS003_M04,RS003,Korean Food Court,Kimchi Stew Set,Korean Food,9100,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.5
+RS003_M05,RS003,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7600,False,True,07:00–21:00,Warm udon soup for quick meals.,4.6
+RS003_M06,RS003,Noodle & Soup Bar,Spicy Ramen,Noodles,6100,False,False,07:00–21:00,Simple spicy ramen.,3.8
+RS003_M07,RS003,Snack Corner,Tteokbokki Cup,Snacks,5100,False,False,Open 24 hours,Spicy rice cakes in a cup.,3.9
+RS003_M08,RS003,Snack Corner,Hot Dog,Snacks,4600,False,False,Open 24 hours,Classic highway snack.,4.0
+RS003_M09,RS003,Snack Corner,Walnut Pastry,Dessert,4100,False,True,Open 24 hours,Small sweet pastry snack.,4.1
+RS003_M10,RS003,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.2
+RS003_M11,RS003,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3800,False,False,07:00–21:00,Soft bread with red bean filling.,4.3
+RS003_M12,RS003,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.4
+RS004_M01,RS004,Korean Food Court,Anseong Beef Bone Soup,Korean Food,11300,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.3
+RS004_M02,RS004,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,10300,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.4
+RS004_M03,RS004,Korean Food Court,Pork Cutlet Plate,Western / Korean,10600,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.5
+RS004_M04,RS004,Korean Food Court,Kimchi Stew Set,Korean Food,9300,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.6
+RS004_M05,RS004,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7800,False,True,07:00–21:00,Warm udon soup for quick meals.,3.8
+RS004_M06,RS004,Noodle & Soup Bar,Spicy Ramen,Noodles,6300,False,False,07:00–21:00,Simple spicy ramen.,3.9
+RS004_M07,RS004,Snack Corner,Tteokbokki Cup,Snacks,5300,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.0
+RS004_M08,RS004,Snack Corner,Hot Dog,Snacks,4800,False,False,Open 24 hours,Classic highway snack.,4.1
+RS004_M09,RS004,Snack Corner,Walnut Pastry,Dessert,4300,False,True,Open 24 hours,Small sweet pastry snack.,4.2
+RS004_M10,RS004,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.3
+RS004_M11,RS004,Cafe & Bakery,Sweet Red Bean Bread,Bakery,4000,False,False,07:00–21:00,Soft bread with red bean filling.,4.4
+RS004_M12,RS004,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.5
+RS005_M01,RS005,Korean Food Court,Anseong Beef Bone Soup,Korean Food,10500,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.4
+RS005_M02,RS005,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9500,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.5
+RS005_M03,RS005,Korean Food Court,Pork Cutlet Plate,Western / Korean,9800,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.6
+RS005_M04,RS005,Korean Food Court,Kimchi Stew Set,Korean Food,8500,False,False,07:00–21:00,Hot kimchi stew served with rice.,3.8
+RS005_M05,RS005,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7000,False,True,07:00–21:00,Warm udon soup for quick meals.,3.9
+RS005_M06,RS005,Noodle & Soup Bar,Spicy Ramen,Noodles,5500,False,False,07:00–21:00,Simple spicy ramen.,4.0
+RS005_M07,RS005,Snack Corner,Tteokbokki Cup,Snacks,4500,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.1
+RS005_M08,RS005,Snack Corner,Hot Dog,Snacks,4000,False,False,Open 24 hours,Classic highway snack.,4.2
+RS005_M09,RS005,Snack Corner,Walnut Pastry,Dessert,3500,False,True,Open 24 hours,Small sweet pastry snack.,4.3
+RS005_M10,RS005,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.4
+RS005_M11,RS005,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3200,False,False,07:00–21:00,Soft bread with red bean filling.,4.5
+RS005_M12,RS005,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.6
+RS006_M01,RS006,Korean Food Court,Cheonan Walnut Pastry Set,Korean Food,10700,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.5
+RS006_M02,RS006,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9700,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.6
+RS006_M03,RS006,Korean Food Court,Pork Cutlet Plate,Western / Korean,10000,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,3.8
+RS006_M04,RS006,Korean Food Court,Kimchi Stew Set,Korean Food,8700,False,False,07:00–21:00,Hot kimchi stew served with rice.,3.9
+RS006_M05,RS006,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7200,False,True,07:00–21:00,Warm udon soup for quick meals.,4.0
+RS006_M06,RS006,Noodle & Soup Bar,Spicy Ramen,Noodles,5700,False,False,07:00–21:00,Simple spicy ramen.,4.1
+RS006_M07,RS006,Snack Corner,Tteokbokki Cup,Snacks,4700,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.2
+RS006_M08,RS006,Snack Corner,Hot Dog,Snacks,4200,False,False,Open 24 hours,Classic highway snack.,4.3
+RS006_M09,RS006,Snack Corner,Walnut Pastry,Dessert,3700,False,True,Open 24 hours,Small sweet pastry snack.,4.4
+RS006_M10,RS006,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.5
+RS006_M11,RS006,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3400,False,False,07:00–21:00,Soft bread with red bean filling.,4.6
+RS006_M12,RS006,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,3.8
+RS007_M01,RS007,Korean Food Court,Cheonan Walnut Pastry Set,Korean Food,10900,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.6
+RS007_M02,RS007,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9900,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,3.8
+RS007_M03,RS007,Korean Food Court,Pork Cutlet Plate,Western / Korean,10200,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,3.9
+RS007_M04,RS007,Korean Food Court,Kimchi Stew Set,Korean Food,8900,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.0
+RS007_M05,RS007,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7400,False,True,07:00–21:00,Warm udon soup for quick meals.,4.1
+RS007_M06,RS007,Noodle & Soup Bar,Spicy Ramen,Noodles,5900,False,False,07:00–21:00,Simple spicy ramen.,4.2
+RS007_M07,RS007,Snack Corner,Tteokbokki Cup,Snacks,4900,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.3
+RS007_M08,RS007,Snack Corner,Hot Dog,Snacks,4400,False,False,Open 24 hours,Classic highway snack.,4.4
+RS007_M09,RS007,Snack Corner,Walnut Pastry,Dessert,3900,False,True,Open 24 hours,Small sweet pastry snack.,4.5
+RS007_M10,RS007,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.6
+RS007_M11,RS007,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3600,False,False,07:00–21:00,Soft bread with red bean filling.,3.8
+RS007_M12,RS007,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,3.9
+RS008_M01,RS008,Korean Food Court,Manghyang Signature Meal,Korean Food,11100,True,True,07:00–21:00,A local-style representative meal for this rest stop.,3.8
+RS008_M02,RS008,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,10100,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,3.9
+RS008_M03,RS008,Korean Food Court,Pork Cutlet Plate,Western / Korean,10400,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.0
+RS008_M04,RS008,Korean Food Court,Kimchi Stew Set,Korean Food,9100,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.1
+RS008_M05,RS008,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7600,False,True,07:00–21:00,Warm udon soup for quick meals.,4.2
+RS008_M06,RS008,Noodle & Soup Bar,Spicy Ramen,Noodles,6100,False,False,07:00–21:00,Simple spicy ramen.,4.3
+RS008_M07,RS008,Snack Corner,Tteokbokki Cup,Snacks,5100,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.4
+RS008_M08,RS008,Snack Corner,Hot Dog,Snacks,4600,False,False,Open 24 hours,Classic highway snack.,4.5
+RS008_M09,RS008,Snack Corner,Walnut Pastry,Dessert,4100,False,True,Open 24 hours,Small sweet pastry snack.,4.6
+RS008_M10,RS008,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,3.8
+RS008_M11,RS008,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3800,False,False,07:00–21:00,Soft bread with red bean filling.,3.9
+RS008_M12,RS008,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.0
+RS009_M01,RS009,Korean Food Court,Oksan Signature Meal,Korean Food,11300,True,True,07:00–21:00,A local-style representative meal for this rest stop.,3.9
+RS009_M02,RS009,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,10300,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.0
+RS009_M03,RS009,Korean Food Court,Pork Cutlet Plate,Western / Korean,10600,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.1
+RS009_M04,RS009,Korean Food Court,Kimchi Stew Set,Korean Food,9300,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.2
+RS009_M05,RS009,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7800,False,True,07:00–21:00,Warm udon soup for quick meals.,4.3
+RS009_M06,RS009,Noodle & Soup Bar,Spicy Ramen,Noodles,6300,False,False,07:00–21:00,Simple spicy ramen.,4.4
+RS009_M07,RS009,Snack Corner,Tteokbokki Cup,Snacks,5300,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.5
+RS009_M08,RS009,Snack Corner,Hot Dog,Snacks,4800,False,False,Open 24 hours,Classic highway snack.,4.6
+RS009_M09,RS009,Snack Corner,Walnut Pastry,Dessert,4300,False,True,Open 24 hours,Small sweet pastry snack.,3.8
+RS009_M10,RS009,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,3.9
+RS009_M11,RS009,Cafe & Bakery,Sweet Red Bean Bread,Bakery,4000,False,False,07:00–21:00,Soft bread with red bean filling.,4.0
+RS009_M12,RS009,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.1
+RS010_M01,RS010,Korean Food Court,Okcheon Herb Bibimbap,Korean Food,10500,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.0
+RS010_M02,RS010,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9500,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.1
+RS010_M03,RS010,Korean Food Court,Pork Cutlet Plate,Western / Korean,9800,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.2
+RS010_M04,RS010,Korean Food Court,Kimchi Stew Set,Korean Food,8500,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.3
+RS010_M05,RS010,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7000,False,True,07:00–21:00,Warm udon soup for quick meals.,4.4
+RS010_M06,RS010,Noodle & Soup Bar,Spicy Ramen,Noodles,5500,False,False,07:00–21:00,Simple spicy ramen.,4.5
+RS010_M07,RS010,Snack Corner,Tteokbokki Cup,Snacks,4500,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.6
+RS010_M08,RS010,Snack Corner,Hot Dog,Snacks,4000,False,False,Open 24 hours,Classic highway snack.,3.8
+RS010_M09,RS010,Snack Corner,Walnut Pastry,Dessert,3500,False,True,Open 24 hours,Small sweet pastry snack.,3.9
+RS010_M10,RS010,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.0
+RS010_M11,RS010,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3200,False,False,07:00–21:00,Soft bread with red bean filling.,4.1
+RS010_M12,RS010,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.2
+RS011_M01,RS011,Korean Food Court,Chilgok Soybean Paste Stew,Korean Food,10700,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.1
+RS011_M02,RS011,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9700,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.2
+RS011_M03,RS011,Korean Food Court,Pork Cutlet Plate,Western / Korean,10000,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.3
+RS011_M04,RS011,Korean Food Court,Kimchi Stew Set,Korean Food,8700,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.4
+RS011_M05,RS011,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7200,False,True,07:00–21:00,Warm udon soup for quick meals.,4.5
+RS011_M06,RS011,Noodle & Soup Bar,Spicy Ramen,Noodles,5700,False,False,07:00–21:00,Simple spicy ramen.,4.6
+RS011_M07,RS011,Snack Corner,Tteokbokki Cup,Snacks,4700,False,False,Open 24 hours,Spicy rice cakes in a cup.,3.8
+RS011_M08,RS011,Snack Corner,Hot Dog,Snacks,4200,False,False,Open 24 hours,Classic highway snack.,3.9
+RS011_M09,RS011,Snack Corner,Walnut Pastry,Dessert,3700,False,True,Open 24 hours,Small sweet pastry snack.,4.0
+RS011_M10,RS011,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.1
+RS011_M11,RS011,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3400,False,False,07:00–21:00,Soft bread with red bean filling.,4.2
+RS011_M12,RS011,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.3
+RS012_M01,RS012,Korean Food Court,Chilgok Soybean Paste Stew,Korean Food,10900,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.2
+RS012_M02,RS012,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9900,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.3
+RS012_M03,RS012,Korean Food Court,Pork Cutlet Plate,Western / Korean,10200,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.4
+RS012_M04,RS012,Korean Food Court,Kimchi Stew Set,Korean Food,8900,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.5
+RS012_M05,RS012,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7400,False,True,07:00–21:00,Warm udon soup for quick meals.,4.6
+RS012_M06,RS012,Noodle & Soup Bar,Spicy Ramen,Noodles,5900,False,False,07:00–21:00,Simple spicy ramen.,3.8
+RS012_M07,RS012,Snack Corner,Tteokbokki Cup,Snacks,4900,False,False,Open 24 hours,Spicy rice cakes in a cup.,3.9
+RS012_M08,RS012,Snack Corner,Hot Dog,Snacks,4400,False,False,Open 24 hours,Classic highway snack.,4.0
+RS012_M09,RS012,Snack Corner,Walnut Pastry,Dessert,3900,False,True,Open 24 hours,Small sweet pastry snack.,4.1
+RS012_M10,RS012,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.2
+RS012_M11,RS012,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3600,False,False,07:00–21:00,Soft bread with red bean filling.,4.3
+RS012_M12,RS012,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.4
+RS013_M01,RS013,Korean Food Court,Haengdamdo Seafood Noodle,Korean Food,11100,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.3
+RS013_M02,RS013,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,10100,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.4
+RS013_M03,RS013,Korean Food Court,Pork Cutlet Plate,Western / Korean,10400,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.5
+RS013_M04,RS013,Korean Food Court,Kimchi Stew Set,Korean Food,9100,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.6
+RS013_M05,RS013,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7600,False,True,07:00–21:00,Warm udon soup for quick meals.,3.8
+RS013_M06,RS013,Noodle & Soup Bar,Spicy Ramen,Noodles,6100,False,False,07:00–21:00,Simple spicy ramen.,3.9
+RS013_M07,RS013,Snack Corner,Tteokbokki Cup,Snacks,5100,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.0
+RS013_M08,RS013,Snack Corner,Hot Dog,Snacks,4600,False,False,Open 24 hours,Classic highway snack.,4.1
+RS013_M09,RS013,Snack Corner,Walnut Pastry,Dessert,4100,False,True,Open 24 hours,Small sweet pastry snack.,4.2
+RS013_M10,RS013,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.3
+RS013_M11,RS013,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3800,False,False,07:00–21:00,Soft bread with red bean filling.,4.4
+RS013_M12,RS013,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.5
+RS014_M01,RS014,Korean Food Court,Hwaseong Garlic Pork Cutlet,Korean Food,11300,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.4
+RS014_M02,RS014,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,10300,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.5
+RS014_M03,RS014,Korean Food Court,Pork Cutlet Plate,Western / Korean,10600,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.6
+RS014_M04,RS014,Korean Food Court,Kimchi Stew Set,Korean Food,9300,False,False,07:00–21:00,Hot kimchi stew served with rice.,3.8
+RS014_M05,RS014,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7800,False,True,07:00–21:00,Warm udon soup for quick meals.,3.9
+RS014_M06,RS014,Noodle & Soup Bar,Spicy Ramen,Noodles,6300,False,False,07:00–21:00,Simple spicy ramen.,4.0
+RS014_M07,RS014,Snack Corner,Tteokbokki Cup,Snacks,5300,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.1
+RS014_M08,RS014,Snack Corner,Hot Dog,Snacks,4800,False,False,Open 24 hours,Classic highway snack.,4.2
+RS014_M09,RS014,Snack Corner,Walnut Pastry,Dessert,4300,False,True,Open 24 hours,Small sweet pastry snack.,4.3
+RS014_M10,RS014,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.4
+RS014_M11,RS014,Cafe & Bakery,Sweet Red Bean Bread,Bakery,4000,False,False,07:00–21:00,Soft bread with red bean filling.,4.5
+RS014_M12,RS014,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.6
+RS015_M01,RS015,Korean Food Court,Hwaseong Garlic Pork Cutlet,Korean Food,10500,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.5
+RS015_M02,RS015,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9500,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.6
+RS015_M03,RS015,Korean Food Court,Pork Cutlet Plate,Western / Korean,9800,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,3.8
+RS015_M04,RS015,Korean Food Court,Kimchi Stew Set,Korean Food,8500,False,False,07:00–21:00,Hot kimchi stew served with rice.,3.9
+RS015_M05,RS015,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7000,False,True,07:00–21:00,Warm udon soup for quick meals.,4.0
+RS015_M06,RS015,Noodle & Soup Bar,Spicy Ramen,Noodles,5500,False,False,07:00–21:00,Simple spicy ramen.,4.1
+RS015_M07,RS015,Snack Corner,Tteokbokki Cup,Snacks,4500,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.2
+RS015_M08,RS015,Snack Corner,Hot Dog,Snacks,4000,False,False,Open 24 hours,Classic highway snack.,4.3
+RS015_M09,RS015,Snack Corner,Walnut Pastry,Dessert,3500,False,True,Open 24 hours,Small sweet pastry snack.,4.4
+RS015_M10,RS015,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.5
+RS015_M11,RS015,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3200,False,False,07:00–21:00,Soft bread with red bean filling.,4.6
+RS015_M12,RS015,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,3.8
+RS016_M01,RS016,Korean Food Court,Seosan Seafood Ramyeon,Korean Food,10700,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.6
+RS016_M02,RS016,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9700,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,3.8
+RS016_M03,RS016,Korean Food Court,Pork Cutlet Plate,Western / Korean,10000,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,3.9
+RS016_M04,RS016,Korean Food Court,Kimchi Stew Set,Korean Food,8700,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.0
+RS016_M05,RS016,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7200,False,True,07:00–21:00,Warm udon soup for quick meals.,4.1
+RS016_M06,RS016,Noodle & Soup Bar,Spicy Ramen,Noodles,5700,False,False,07:00–21:00,Simple spicy ramen.,4.2
+RS016_M07,RS016,Snack Corner,Tteokbokki Cup,Snacks,4700,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.3
+RS016_M08,RS016,Snack Corner,Hot Dog,Snacks,4200,False,False,Open 24 hours,Classic highway snack.,4.4
+RS016_M09,RS016,Snack Corner,Walnut Pastry,Dessert,3700,False,True,Open 24 hours,Small sweet pastry snack.,4.5
+RS016_M10,RS016,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.6
+RS016_M11,RS016,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3400,False,False,07:00–21:00,Soft bread with red bean filling.,3.8
+RS016_M12,RS016,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,3.9
+RS017_M01,RS017,Korean Food Court,Premium Deokpyeong Steak Bowl,Korean Food,10900,True,True,07:00–21:00,A local-style representative meal for this rest stop.,3.8
+RS017_M02,RS017,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9900,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,3.9
+RS017_M03,RS017,Korean Food Court,Pork Cutlet Plate,Western / Korean,10200,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.0
+RS017_M04,RS017,Korean Food Court,Kimchi Stew Set,Korean Food,8900,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.1
+RS017_M05,RS017,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7400,False,True,07:00–21:00,Warm udon soup for quick meals.,4.2
+RS017_M06,RS017,Noodle & Soup Bar,Spicy Ramen,Noodles,5900,False,False,07:00–21:00,Simple spicy ramen.,4.3
+RS017_M07,RS017,Snack Corner,Tteokbokki Cup,Snacks,4900,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.4
+RS017_M08,RS017,Snack Corner,Hot Dog,Snacks,4400,False,False,Open 24 hours,Classic highway snack.,4.5
+RS017_M09,RS017,Snack Corner,Walnut Pastry,Dessert,3900,False,True,Open 24 hours,Small sweet pastry snack.,4.6
+RS017_M10,RS017,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,3.8
+RS017_M11,RS017,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3600,False,False,07:00–21:00,Soft bread with red bean filling.,3.9
+RS017_M12,RS017,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.0
+RS018_M01,RS018,Korean Food Court,Yeoju Rice Bowl Set,Korean Food,11100,True,True,07:00–21:00,A local-style representative meal for this rest stop.,3.9
+RS018_M02,RS018,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,10100,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.0
+RS018_M03,RS018,Korean Food Court,Pork Cutlet Plate,Western / Korean,10400,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.1
+RS018_M04,RS018,Korean Food Court,Kimchi Stew Set,Korean Food,9100,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.2
+RS018_M05,RS018,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7600,False,True,07:00–21:00,Warm udon soup for quick meals.,4.3
+RS018_M06,RS018,Noodle & Soup Bar,Spicy Ramen,Noodles,6100,False,False,07:00–21:00,Simple spicy ramen.,4.4
+RS018_M07,RS018,Snack Corner,Tteokbokki Cup,Snacks,5100,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.5
+RS018_M08,RS018,Snack Corner,Hot Dog,Snacks,4600,False,False,Open 24 hours,Classic highway snack.,4.6
+RS018_M09,RS018,Snack Corner,Walnut Pastry,Dessert,4100,False,True,Open 24 hours,Small sweet pastry snack.,3.8
+RS018_M10,RS018,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,3.9
+RS018_M11,RS018,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3800,False,False,07:00–21:00,Soft bread with red bean filling.,4.0
+RS018_M12,RS018,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.1
+RS019_M01,RS019,Korean Food Court,Yeoju Rice Bowl Set,Korean Food,11300,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.0
+RS019_M02,RS019,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,10300,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.1
+RS019_M03,RS019,Korean Food Court,Pork Cutlet Plate,Western / Korean,10600,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.2
+RS019_M04,RS019,Korean Food Court,Kimchi Stew Set,Korean Food,9300,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.3
+RS019_M05,RS019,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7800,False,True,07:00–21:00,Warm udon soup for quick meals.,4.4
+RS019_M06,RS019,Noodle & Soup Bar,Spicy Ramen,Noodles,6300,False,False,07:00–21:00,Simple spicy ramen.,4.5
+RS019_M07,RS019,Snack Corner,Tteokbokki Cup,Snacks,5300,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.6
+RS019_M08,RS019,Snack Corner,Hot Dog,Snacks,4800,False,False,Open 24 hours,Classic highway snack.,3.8
+RS019_M09,RS019,Snack Corner,Walnut Pastry,Dessert,4300,False,True,Open 24 hours,Small sweet pastry snack.,3.9
+RS019_M10,RS019,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.0
+RS019_M11,RS019,Cafe & Bakery,Sweet Red Bean Bread,Bakery,4000,False,False,07:00–21:00,Soft bread with red bean filling.,4.1
+RS019_M12,RS019,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.2
+RS020_M01,RS020,Korean Food Court,Mungmak Potato Sujebi,Korean Food,10500,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.1
+RS020_M02,RS020,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9500,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.2
+RS020_M03,RS020,Korean Food Court,Pork Cutlet Plate,Western / Korean,9800,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.3
+RS020_M04,RS020,Korean Food Court,Kimchi Stew Set,Korean Food,8500,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.4
+RS020_M05,RS020,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7000,False,True,07:00–21:00,Warm udon soup for quick meals.,4.5
+RS020_M06,RS020,Noodle & Soup Bar,Spicy Ramen,Noodles,5500,False,False,07:00–21:00,Simple spicy ramen.,4.6
+RS020_M07,RS020,Snack Corner,Tteokbokki Cup,Snacks,4500,False,False,Open 24 hours,Spicy rice cakes in a cup.,3.8
+RS020_M08,RS020,Snack Corner,Hot Dog,Snacks,4000,False,False,Open 24 hours,Classic highway snack.,3.9
+RS020_M09,RS020,Snack Corner,Walnut Pastry,Dessert,3500,False,True,Open 24 hours,Small sweet pastry snack.,4.0
+RS020_M10,RS020,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.1
+RS020_M11,RS020,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3200,False,False,07:00–21:00,Soft bread with red bean filling.,4.2
+RS020_M12,RS020,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.3
+RS021_M01,RS021,Korean Food Court,Mungmak Potato Sujebi,Korean Food,10700,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.2
+RS021_M02,RS021,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9700,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.3
+RS021_M03,RS021,Korean Food Court,Pork Cutlet Plate,Western / Korean,10000,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.4
+RS021_M04,RS021,Korean Food Court,Kimchi Stew Set,Korean Food,8700,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.5
+RS021_M05,RS021,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7200,False,True,07:00–21:00,Warm udon soup for quick meals.,4.6
+RS021_M06,RS021,Noodle & Soup Bar,Spicy Ramen,Noodles,5700,False,False,07:00–21:00,Simple spicy ramen.,3.8
+RS021_M07,RS021,Snack Corner,Tteokbokki Cup,Snacks,4700,False,False,Open 24 hours,Spicy rice cakes in a cup.,3.9
+RS021_M08,RS021,Snack Corner,Hot Dog,Snacks,4200,False,False,Open 24 hours,Classic highway snack.,4.0
+RS021_M09,RS021,Snack Corner,Walnut Pastry,Dessert,3700,False,True,Open 24 hours,Small sweet pastry snack.,4.1
+RS021_M10,RS021,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.2
+RS021_M11,RS021,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3400,False,False,07:00–21:00,Soft bread with red bean filling.,4.3
+RS021_M12,RS021,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.4
+RS022_M01,RS022,Korean Food Court,Pyeongchang Buckwheat Noodles,Korean Food,10900,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.3
+RS022_M02,RS022,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9900,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.4
+RS022_M03,RS022,Korean Food Court,Pork Cutlet Plate,Western / Korean,10200,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.5
+RS022_M04,RS022,Korean Food Court,Kimchi Stew Set,Korean Food,8900,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.6
+RS022_M05,RS022,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7400,False,True,07:00–21:00,Warm udon soup for quick meals.,3.8
+RS022_M06,RS022,Noodle & Soup Bar,Spicy Ramen,Noodles,5900,False,False,07:00–21:00,Simple spicy ramen.,3.9
+RS022_M07,RS022,Snack Corner,Tteokbokki Cup,Snacks,4900,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.0
+RS022_M08,RS022,Snack Corner,Hot Dog,Snacks,4400,False,False,Open 24 hours,Classic highway snack.,4.1
+RS022_M09,RS022,Snack Corner,Walnut Pastry,Dessert,3900,False,True,Open 24 hours,Small sweet pastry snack.,4.2
+RS022_M10,RS022,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.3
+RS022_M11,RS022,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3600,False,False,07:00–21:00,Soft bread with red bean filling.,4.4
+RS022_M12,RS022,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.5
+RS023_M01,RS023,Korean Food Court,Pyeongchang Buckwheat Noodles,Korean Food,11100,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.4
+RS023_M02,RS023,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,10100,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.5
+RS023_M03,RS023,Korean Food Court,Pork Cutlet Plate,Western / Korean,10400,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.6
+RS023_M04,RS023,Korean Food Court,Kimchi Stew Set,Korean Food,9100,False,False,07:00–21:00,Hot kimchi stew served with rice.,3.8
+RS023_M05,RS023,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7600,False,True,07:00–21:00,Warm udon soup for quick meals.,3.9
+RS023_M06,RS023,Noodle & Soup Bar,Spicy Ramen,Noodles,6100,False,False,07:00–21:00,Simple spicy ramen.,4.0
+RS023_M07,RS023,Snack Corner,Tteokbokki Cup,Snacks,5100,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.1
+RS023_M08,RS023,Snack Corner,Hot Dog,Snacks,4600,False,False,Open 24 hours,Classic highway snack.,4.2
+RS023_M09,RS023,Snack Corner,Walnut Pastry,Dessert,4100,False,True,Open 24 hours,Small sweet pastry snack.,4.3
+RS023_M10,RS023,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.4
+RS023_M11,RS023,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3800,False,False,07:00–21:00,Soft bread with red bean filling.,4.5
+RS023_M12,RS023,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.6
+RS024_M01,RS024,Korean Food Court,Hoengseong Beef Soup,Korean Food,11300,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.5
+RS024_M02,RS024,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,10300,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.6
+RS024_M03,RS024,Korean Food Court,Pork Cutlet Plate,Western / Korean,10600,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,3.8
+RS024_M04,RS024,Korean Food Court,Kimchi Stew Set,Korean Food,9300,False,False,07:00–21:00,Hot kimchi stew served with rice.,3.9
+RS024_M05,RS024,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7800,False,True,07:00–21:00,Warm udon soup for quick meals.,4.0
+RS024_M06,RS024,Noodle & Soup Bar,Spicy Ramen,Noodles,6300,False,False,07:00–21:00,Simple spicy ramen.,4.1
+RS024_M07,RS024,Snack Corner,Tteokbokki Cup,Snacks,5300,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.2
+RS024_M08,RS024,Snack Corner,Hot Dog,Snacks,4800,False,False,Open 24 hours,Classic highway snack.,4.3
+RS024_M09,RS024,Snack Corner,Walnut Pastry,Dessert,4300,False,True,Open 24 hours,Small sweet pastry snack.,4.4
+RS024_M10,RS024,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.5
+RS024_M11,RS024,Cafe & Bakery,Sweet Red Bean Bread,Bakery,4000,False,False,07:00–21:00,Soft bread with red bean filling.,4.6
+RS024_M12,RS024,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,3.8
+RS025_M01,RS025,Korean Food Court,Hoengseong Beef Soup,Korean Food,10500,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.6
+RS025_M02,RS025,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9500,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,3.8
+RS025_M03,RS025,Korean Food Court,Pork Cutlet Plate,Western / Korean,9800,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,3.9
+RS025_M04,RS025,Korean Food Court,Kimchi Stew Set,Korean Food,8500,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.0
+RS025_M05,RS025,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7000,False,True,07:00–21:00,Warm udon soup for quick meals.,4.1
+RS025_M06,RS025,Noodle & Soup Bar,Spicy Ramen,Noodles,5500,False,False,07:00–21:00,Simple spicy ramen.,4.2
+RS025_M07,RS025,Snack Corner,Tteokbokki Cup,Snacks,4500,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.3
+RS025_M08,RS025,Snack Corner,Hot Dog,Snacks,4000,False,False,Open 24 hours,Classic highway snack.,4.4
+RS025_M09,RS025,Snack Corner,Walnut Pastry,Dessert,3500,False,True,Open 24 hours,Small sweet pastry snack.,4.5
+RS025_M10,RS025,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.6
+RS025_M11,RS025,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3200,False,False,07:00–21:00,Soft bread with red bean filling.,3.8
+RS025_M12,RS025,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,3.9
+RS026_M01,RS026,Korean Food Court,Geumgang Scenic Udon,Korean Food,10700,True,True,07:00–21:00,A local-style representative meal for this rest stop.,3.8
+RS026_M02,RS026,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9700,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,3.9
+RS026_M03,RS026,Korean Food Court,Pork Cutlet Plate,Western / Korean,10000,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.0
+RS026_M04,RS026,Korean Food Court,Kimchi Stew Set,Korean Food,8700,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.1
+RS026_M05,RS026,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7200,False,True,07:00–21:00,Warm udon soup for quick meals.,4.2
+RS026_M06,RS026,Noodle & Soup Bar,Spicy Ramen,Noodles,5700,False,False,07:00–21:00,Simple spicy ramen.,4.3
+RS026_M07,RS026,Snack Corner,Tteokbokki Cup,Snacks,4700,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.4
+RS026_M08,RS026,Snack Corner,Hot Dog,Snacks,4200,False,False,Open 24 hours,Classic highway snack.,4.5
+RS026_M09,RS026,Snack Corner,Walnut Pastry,Dessert,3700,False,True,Open 24 hours,Small sweet pastry snack.,4.6
+RS026_M10,RS026,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,3.8
+RS026_M11,RS026,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3400,False,False,07:00–21:00,Soft bread with red bean filling.,3.9
+RS026_M12,RS026,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.0
+RS027_M01,RS027,Korean Food Court,Chupungnyeong Signature Meal,Korean Food,10900,True,True,07:00–21:00,A local-style representative meal for this rest stop.,3.9
+RS027_M02,RS027,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9900,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.0
+RS027_M03,RS027,Korean Food Court,Pork Cutlet Plate,Western / Korean,10200,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.1
+RS027_M04,RS027,Korean Food Court,Kimchi Stew Set,Korean Food,8900,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.2
+RS027_M05,RS027,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7400,False,True,07:00–21:00,Warm udon soup for quick meals.,4.3
+RS027_M06,RS027,Noodle & Soup Bar,Spicy Ramen,Noodles,5900,False,False,07:00–21:00,Simple spicy ramen.,4.4
+RS027_M07,RS027,Snack Corner,Tteokbokki Cup,Snacks,4900,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.5
+RS027_M08,RS027,Snack Corner,Hot Dog,Snacks,4400,False,False,Open 24 hours,Classic highway snack.,4.6
+RS027_M09,RS027,Snack Corner,Walnut Pastry,Dessert,3900,False,True,Open 24 hours,Small sweet pastry snack.,3.8
+RS027_M10,RS027,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,3.9
+RS027_M11,RS027,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3600,False,False,07:00–21:00,Soft bread with red bean filling.,4.0
+RS027_M12,RS027,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.1
+RS028_M01,RS028,Korean Food Court,Chupungnyeong Signature Meal,Korean Food,11100,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.0
+RS028_M02,RS028,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,10100,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.1
+RS028_M03,RS028,Korean Food Court,Pork Cutlet Plate,Western / Korean,10400,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.2
+RS028_M04,RS028,Korean Food Court,Kimchi Stew Set,Korean Food,9100,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.3
+RS028_M05,RS028,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7600,False,True,07:00–21:00,Warm udon soup for quick meals.,4.4
+RS028_M06,RS028,Noodle & Soup Bar,Spicy Ramen,Noodles,6100,False,False,07:00–21:00,Simple spicy ramen.,4.5
+RS028_M07,RS028,Snack Corner,Tteokbokki Cup,Snacks,5100,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.6
+RS028_M08,RS028,Snack Corner,Hot Dog,Snacks,4600,False,False,Open 24 hours,Classic highway snack.,3.8
+RS028_M09,RS028,Snack Corner,Walnut Pastry,Dessert,4100,False,True,Open 24 hours,Small sweet pastry snack.,3.9
+RS028_M10,RS028,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.0
+RS028_M11,RS028,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3800,False,False,07:00–21:00,Soft bread with red bean filling.,4.1
+RS028_M12,RS028,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.2
+RS029_M01,RS029,Korean Food Court,Geoncheon Signature Meal,Korean Food,11300,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.1
+RS029_M02,RS029,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,10300,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.2
+RS029_M03,RS029,Korean Food Court,Pork Cutlet Plate,Western / Korean,10600,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.3
+RS029_M04,RS029,Korean Food Court,Kimchi Stew Set,Korean Food,9300,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.4
+RS029_M05,RS029,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7800,False,True,07:00–21:00,Warm udon soup for quick meals.,4.5
+RS029_M06,RS029,Noodle & Soup Bar,Spicy Ramen,Noodles,6300,False,False,07:00–21:00,Simple spicy ramen.,4.6
+RS029_M07,RS029,Snack Corner,Tteokbokki Cup,Snacks,5300,False,False,Open 24 hours,Spicy rice cakes in a cup.,3.8
+RS029_M08,RS029,Snack Corner,Hot Dog,Snacks,4800,False,False,Open 24 hours,Classic highway snack.,3.9
+RS029_M09,RS029,Snack Corner,Walnut Pastry,Dessert,4300,False,True,Open 24 hours,Small sweet pastry snack.,4.0
+RS029_M10,RS029,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.1
+RS029_M11,RS029,Cafe & Bakery,Sweet Red Bean Bread,Bakery,4000,False,False,07:00–21:00,Soft bread with red bean filling.,4.2
+RS029_M12,RS029,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.3
+RS030_M01,RS030,Korean Food Court,Geoncheon Signature Meal,Korean Food,10500,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.2
+RS030_M02,RS030,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9500,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.3
+RS030_M03,RS030,Korean Food Court,Pork Cutlet Plate,Western / Korean,9800,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.4
+RS030_M04,RS030,Korean Food Court,Kimchi Stew Set,Korean Food,8500,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.5
+RS030_M05,RS030,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7000,False,True,07:00–21:00,Warm udon soup for quick meals.,4.6
+RS030_M06,RS030,Noodle & Soup Bar,Spicy Ramen,Noodles,5500,False,False,07:00–21:00,Simple spicy ramen.,3.8
+RS030_M07,RS030,Snack Corner,Tteokbokki Cup,Snacks,4500,False,False,Open 24 hours,Spicy rice cakes in a cup.,3.9
+RS030_M08,RS030,Snack Corner,Hot Dog,Snacks,4000,False,False,Open 24 hours,Classic highway snack.,4.0
+RS030_M09,RS030,Snack Corner,Walnut Pastry,Dessert,3500,False,True,Open 24 hours,Small sweet pastry snack.,4.1
+RS030_M10,RS030,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.2
+RS030_M11,RS030,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3200,False,False,07:00–21:00,Soft bread with red bean filling.,4.3
+RS030_M12,RS030,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.4
+RS031_M01,RS031,Korean Food Court,Eonyang Bulgogi Rice Set,Korean Food,10700,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.3
+RS031_M02,RS031,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9700,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.4
+RS031_M03,RS031,Korean Food Court,Pork Cutlet Plate,Western / Korean,10000,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.5
+RS031_M04,RS031,Korean Food Court,Kimchi Stew Set,Korean Food,8700,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.6
+RS031_M05,RS031,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7200,False,True,07:00–21:00,Warm udon soup for quick meals.,3.8
+RS031_M06,RS031,Noodle & Soup Bar,Spicy Ramen,Noodles,5700,False,False,07:00–21:00,Simple spicy ramen.,3.9
+RS031_M07,RS031,Snack Corner,Tteokbokki Cup,Snacks,4700,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.0
+RS031_M08,RS031,Snack Corner,Hot Dog,Snacks,4200,False,False,Open 24 hours,Classic highway snack.,4.1
+RS031_M09,RS031,Snack Corner,Walnut Pastry,Dessert,3700,False,True,Open 24 hours,Small sweet pastry snack.,4.2
+RS031_M10,RS031,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.3
+RS031_M11,RS031,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3400,False,False,07:00–21:00,Soft bread with red bean filling.,4.4
+RS031_M12,RS031,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.5
+RS032_M01,RS032,Korean Food Court,Eonyang Bulgogi Rice Set,Korean Food,10900,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.4
+RS032_M02,RS032,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,9900,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.5
+RS032_M03,RS032,Korean Food Court,Pork Cutlet Plate,Western / Korean,10200,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,4.6
+RS032_M04,RS032,Korean Food Court,Kimchi Stew Set,Korean Food,8900,False,False,07:00–21:00,Hot kimchi stew served with rice.,3.8
+RS032_M05,RS032,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7400,False,True,07:00–21:00,Warm udon soup for quick meals.,3.9
+RS032_M06,RS032,Noodle & Soup Bar,Spicy Ramen,Noodles,5900,False,False,07:00–21:00,Simple spicy ramen.,4.0
+RS032_M07,RS032,Snack Corner,Tteokbokki Cup,Snacks,4900,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.1
+RS032_M08,RS032,Snack Corner,Hot Dog,Snacks,4400,False,False,Open 24 hours,Classic highway snack.,4.2
+RS032_M09,RS032,Snack Corner,Walnut Pastry,Dessert,3900,False,True,Open 24 hours,Small sweet pastry snack.,4.3
+RS032_M10,RS032,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.4
+RS032_M11,RS032,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3600,False,False,07:00–21:00,Soft bread with red bean filling.,4.5
+RS032_M12,RS032,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,4.6
+RS033_M01,RS033,Korean Food Court,Icheon Signature Meal,Korean Food,11100,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.5
+RS033_M02,RS033,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,10100,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,4.6
+RS033_M03,RS033,Korean Food Court,Pork Cutlet Plate,Western / Korean,10400,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,3.8
+RS033_M04,RS033,Korean Food Court,Kimchi Stew Set,Korean Food,9100,False,False,07:00–21:00,Hot kimchi stew served with rice.,3.9
+RS033_M05,RS033,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7600,False,True,07:00–21:00,Warm udon soup for quick meals.,4.0
+RS033_M06,RS033,Noodle & Soup Bar,Spicy Ramen,Noodles,6100,False,False,07:00–21:00,Simple spicy ramen.,4.1
+RS033_M07,RS033,Snack Corner,Tteokbokki Cup,Snacks,5100,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.2
+RS033_M08,RS033,Snack Corner,Hot Dog,Snacks,4600,False,False,Open 24 hours,Classic highway snack.,4.3
+RS033_M09,RS033,Snack Corner,Walnut Pastry,Dessert,4100,False,True,Open 24 hours,Small sweet pastry snack.,4.4
+RS033_M10,RS033,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.5
+RS033_M11,RS033,Cafe & Bakery,Sweet Red Bean Bread,Bakery,3800,False,False,07:00–21:00,Soft bread with red bean filling.,4.6
+RS033_M12,RS033,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,3.8
+RS034_M01,RS034,Korean Food Court,Masan Spicy Fish Cake Soup,Korean Food,11300,True,True,07:00–21:00,A local-style representative meal for this rest stop.,4.6
+RS034_M02,RS034,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Food,10300,False,True,07:00–21:00,Sweet soy-marinated beef over rice.,3.8
+RS034_M03,RS034,Korean Food Court,Pork Cutlet Plate,Western / Korean,10600,False,False,07:00–21:00,Crispy pork cutlet with rice and sauce.,3.9
+RS034_M04,RS034,Korean Food Court,Kimchi Stew Set,Korean Food,9300,False,False,07:00–21:00,Hot kimchi stew served with rice.,4.0
+RS034_M05,RS034,Noodle & Soup Bar,Udon Noodle Soup,Noodles,7800,False,True,07:00–21:00,Warm udon soup for quick meals.,4.1
+RS034_M06,RS034,Noodle & Soup Bar,Spicy Ramen,Noodles,6300,False,False,07:00–21:00,Simple spicy ramen.,4.2
+RS034_M07,RS034,Snack Corner,Tteokbokki Cup,Snacks,5300,False,False,Open 24 hours,Spicy rice cakes in a cup.,4.3
+RS034_M08,RS034,Snack Corner,Hot Dog,Snacks,4800,False,False,Open 24 hours,Classic highway snack.,4.4
+RS034_M09,RS034,Snack Corner,Walnut Pastry,Dessert,4300,False,True,Open 24 hours,Small sweet pastry snack.,4.5
+RS034_M10,RS034,Cafe & Bakery,Iced Americano,Cafe / Drinks,3500,False,False,07:00–21:00,Cold coffee drink.,4.6
+RS034_M11,RS034,Cafe & Bakery,Sweet Red Bean Bread,Bakery,4000,False,False,07:00–21:00,Soft bread with red bean filling.,3.8
+RS034_M12,RS034,Convenience Store,Bottled Water,Convenience,1200,False,False,Open 24 hours,Basic bottled water.,3.9

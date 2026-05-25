@@ -1,0 +1,35 @@
+rest_stop_id,rest_stop_name,direction,highway_route,region,latitude,longitude,traffic_group,traffic_index,avg_rating,summary,general_hours
+RS001,Seoul Mannam Rest Stop,Busan-bound,Gyeongbu Expressway,Seoul / Seocho,37.4625,127.0429,High,98,4.5,"Major gateway rest stop near Seoul, useful for southbound trips.",Open 24 hours
+RS002,Jukjeon Rest Stop,Seoul-bound,Gyeongbu Expressway,Yongin / Gyeonggi,37.331,127.1042,High,94,4.4,Popular stop for drivers returning to Seoul.,Open 24 hours
+RS003,Giheung Rest Stop,Busan-bound,Gyeongbu Expressway,Yongin / Gyeonggi,37.2355,127.1056,High,90,4.2,Convenient early stop from the Seoul metropolitan area.,Open 24 hours
+RS004,Anseong Rest Stop,Seoul-bound,Gyeongbu Expressway,Anseong / Gyeonggi,37.0382,127.2345,High,93,4.3,Large rest stop with broad food-court options.,Open 24 hours
+RS005,Anseong Rest Stop,Busan-bound,Gyeongbu Expressway,Anseong / Gyeonggi,37.032,127.236,High,92,4.3,Major southbound stop before the central region.,Open 24 hours
+RS006,Cheonan Samgeori Rest Stop,Seoul-bound,Gyeongbu Expressway,Cheonan / Chungnam,36.8301,127.1788,High,88,4.1,Known for snack and walnut-pastry style items.,Open 24 hours
+RS007,Cheonan Hodu Rest Stop,Busan-bound,Gyeongbu Expressway,Cheonan / Chungnam,36.7825,127.181,High,87,4.2,Good stop for classic highway snacks and meals.,Open 24 hours
+RS008,Manghyang Rest Stop,Busan-bound,Gyeongbu Expressway,Cheonan / Chungnam,36.7602,127.1723,High,84,4.1,Recognizable stop on the Gyeongbu corridor.,Open 24 hours
+RS009,Oksan Rest Stop,Busan-bound,Gyeongbu Expressway,Cheongju / Chungbuk,36.6612,127.3649,High,82,4.0,Balanced food-court and snack options.,Open 24 hours
+RS010,Okcheon Rest Stop,Seoul-bound,Gyeongbu Expressway,Okcheon / Chungbuk,36.3118,127.5728,High,80,4.0,Useful midpoint stop for long Gyeongbu trips.,Open 24 hours
+RS011,Chilgok Rest Stop,Seoul-bound,Gyeongbu Expressway,Chilgok / Gyeongbuk,36.013,128.4205,High,83,4.2,Large stop with many standard meal options.,Open 24 hours
+RS012,Chilgok Rest Stop,Busan-bound,Gyeongbu Expressway,Chilgok / Gyeongbuk,36.011,128.423,High,81,4.1,Major southbound stop near Daegu region.,Open 24 hours
+RS013,Haengdamdo Rest Stop,Both directions,Seohaean Expressway,Dangjin / Chungnam,36.892,126.6425,High,96,4.5,Island-style rest stop with strong travel-destination appeal.,Open 24 hours
+RS014,Hwaseong Rest Stop,Mokpo-bound,Seohaean Expressway,Hwaseong / Gyeonggi,37.177,126.8146,High,86,4.2,Early Seohaean route stop with heavy weekend traffic.,Open 24 hours
+RS015,Hwaseong Rest Stop,Seoul-bound,Seohaean Expressway,Hwaseong / Gyeonggi,37.18,126.817,High,85,4.1,Convenient return stop before entering the Seoul metro area.,Open 24 hours
+RS016,Seosan Rest Stop,Mokpo-bound,Seohaean Expressway,Seosan / Chungnam,36.7747,126.514,High,79,4.0,Good stop for west-coast route travelers.,Open 24 hours
+RS017,Deokpyeong Rest Stop,Both directions,Yeongdong Expressway,Icheon / Gyeonggi,37.2366,127.3657,High,95,4.6,Large premium-style rest stop with strong food and shopping appeal.,Open 24 hours
+RS018,Yeoju Rest Stop,Gangneung-bound,Yeongdong Expressway,Yeoju / Gyeonggi,37.264,127.6046,High,78,4.0,Common stop for Gangwon-do trips.,Open 24 hours
+RS019,Yeoju Rest Stop,Incheon-bound,Yeongdong Expressway,Yeoju / Gyeonggi,37.2662,127.6066,High,77,4.0,Useful return stop from eastern routes.,Open 24 hours
+RS020,Mungmak Rest Stop,Gangneung-bound,Yeongdong Expressway,Wonju / Gangwon,37.3214,127.8246,High,76,4.1,Mid-route stop for Gangneung-bound drivers.,Open 24 hours
+RS021,Mungmak Rest Stop,Incheon-bound,Yeongdong Expressway,Wonju / Gangwon,37.3234,127.8288,Standard,70,4.0,Return-route stop from Gangwon-do.,Open 24 hours
+RS022,Pyeongchang Rest Stop,Gangneung-bound,Yeongdong Expressway,Pyeongchang / Gangwon,37.6119,128.3914,Standard,72,4.2,Mountain-route rest stop with regional food appeal.,Open 24 hours
+RS023,Pyeongchang Rest Stop,Incheon-bound,Yeongdong Expressway,Pyeongchang / Gangwon,37.614,128.394,Standard,71,4.1,Good stop for return travel from the east coast.,Open 24 hours
+RS024,Hoengseong Rest Stop,Gangneung-bound,Yeongdong Expressway,Hoengseong / Gangwon,37.4917,128.0764,Standard,73,4.3,Known for beef-themed meal concepts in the region.,Open 24 hours
+RS025,Hoengseong Rest Stop,Incheon-bound,Yeongdong Expressway,Hoengseong / Gangwon,37.4937,128.079,Standard,72,4.2,Popular return stop with hearty meal options.,Open 24 hours
+RS026,Geumgang Rest Stop,Busan-bound,Gyeongbu Expressway,Okcheon / Chungbuk,36.2803,127.6756,Standard,69,4.1,Scenic stop near the Geumgang area.,Open 24 hours
+RS027,Chupungnyeong Rest Stop,Seoul-bound,Gyeongbu Expressway,Gimcheon / Gyeongbuk,36.2068,127.9942,Standard,67,4.0,Classic Gyeongbu route rest stop.,Open 24 hours
+RS028,Chupungnyeong Rest Stop,Busan-bound,Gyeongbu Expressway,Gimcheon / Gyeongbuk,36.205,127.997,Standard,68,4.0,Long-standing stop on the central Gyeongbu section.,Open 24 hours
+RS029,Geoncheon Rest Stop,Seoul-bound,Gyeongbu Expressway,Gyeongju / Gyeongbuk,35.8663,129.0895,Standard,64,4.0,Useful stop near Gyeongju region.,Open 24 hours
+RS030,Geoncheon Rest Stop,Busan-bound,Gyeongbu Expressway,Gyeongju / Gyeongbuk,35.8642,129.0924,Standard,65,4.0,Good southbound stop before Busan/Ulsan area.,Open 24 hours
+RS031,Eonyang Rest Stop,Seoul-bound,Gyeongbu Expressway,Ulsan,35.5634,129.109,Standard,66,4.1,Regional stop near Ulsan and Gyeongju.,Open 24 hours
+RS032,Eonyang Rest Stop,Busan-bound,Gyeongbu Expressway,Ulsan,35.5607,129.1125,Standard,66,4.1,Late-route stop toward Busan and Ulsan.,Open 24 hours
+RS033,Icheon Rest Stop,Hanam-bound,Jungbu Expressway,Icheon / Gyeonggi,37.2486,127.4422,Standard,74,4.1,Useful stop on the Jungbu corridor.,Open 24 hours
+RS034,Masan Rest Stop,Busan-bound,Namhae Expressway,Changwon / Gyeongnam,35.2142,128.6078,Standard,63,4.0,Southern route stop with local food options.,Open 24 hours
