@@ -1,0 +1,65 @@
+rest_stop_id,rest_stop_name,direction,highway_route,region,latitude,longitude,traffic_group,short_description,general_hours,is_corridor_boost
+RS001,죽전휴게소,Seoul-bound,Gyeongbu Expressway,Gyeonggi,37.333,127.105,High-traffic,Suburban gateway rest stop near Seoul,Open 24 hours,No
+RS002,기흥휴게소,Busan-bound,Gyeongbu Expressway,Gyeonggi,37.236,127.104,High-traffic,Major southbound stop after Seoul,Open 24 hours,No
+RS003,안성휴게소,Busan-bound,Gyeongbu Expressway,Gyeonggi,37.041,127.143,High-traffic,Large-scale food court and travel stop,Open 24 hours,No
+RS004,안성휴게소,Seoul-bound,Gyeongbu Expressway,Gyeonggi,37.056,127.145,High-traffic,Popular final stop before the capital area,Open 24 hours,No
+RS005,망향휴게소,Busan-bound,Gyeongbu Expressway,Chungcheong,36.854,127.171,High-traffic,Well-known rest stop on the Seoul–Daejeon corridor,Open 24 hours,Yes
+RS006,천안삼거리휴게소,Seoul-bound,Gyeongbu Expressway,Chungcheong,36.793,127.17,High-traffic,Busy stop near Cheonan,Open 24 hours,Yes
+RS007,입장거봉포도휴게소,Seoul-bound,Gyeongbu Expressway,Chungcheong,36.907,127.211,Regular,Local grape-themed stop,Open 24 hours,Yes
+RS008,옥산휴게소,Busan-bound,Gyeongbu Expressway,Chungcheong,36.664,127.363,High-traffic,Convenient stop near Cheongju,Open 24 hours,Yes
+RS009,청주휴게소,Seoul-bound,Gyeongbu Expressway,Chungcheong,36.602,127.422,Regular,Central Chungcheong stop with broad food options,Open 24 hours,Yes
+RS010,죽암휴게소,Busan-bound,Gyeongbu Expressway,Chungcheong,36.488,127.427,High-traffic,Daejeon approach rest stop,Open 24 hours,Yes
+RS011,신탄진휴게소,Seoul-bound,Gyeongbu Expressway,Daejeon,36.43,127.422,Regular,Northern Daejeon corridor stop,Open 24 hours,Yes
+RS012,금강휴게소,Both directions,Gyeongbu Expressway,Chungcheong,36.278,127.568,High-traffic,Scenic riverside rest stop,Open 24 hours,Yes
+RS013,옥천휴게소,Busan-bound,Gyeongbu Expressway,Chungcheong,36.292,127.635,Regular,Gateway toward Yeongnam,Open 24 hours,Yes
+RS014,추풍령휴게소,Busan-bound,Gyeongbu Expressway,Gyeongsang,36.214,128.003,Regular,Mountain pass rest stop,Open 24 hours,No
+RS015,황간휴게소,Seoul-bound,Gyeongbu Expressway,Chungcheong,36.232,127.888,Regular,Quiet stop near Yeongdong,Open 24 hours,Yes
+RS016,칠곡휴게소,Busan-bound,Gyeongbu Expressway,Gyeongsang,36.0,128.403,High-traffic,Major stop before Daegu,Open 24 hours,No
+RS017,칠곡휴게소,Seoul-bound,Gyeongbu Expressway,Gyeongsang,36.016,128.4,Regular,Northbound Daegu-region stop,Open 24 hours,No
+RS018,건천휴게소,Busan-bound,Gyeongbu Expressway,Gyeongsang,35.841,129.065,Regular,Gyeongju access rest stop,Open 24 hours,No
+RS019,경주휴게소,Busan-bound,Gyeongbu Expressway,Gyeongsang,35.791,129.197,Regular,Tourist-friendly stop near Gyeongju,Open 24 hours,No
+RS020,언양휴게소,Busan-bound,Gyeongbu Expressway,Gyeongsang,35.574,129.128,High-traffic,Final major stop before Ulsan and Busan,Open 24 hours,No
+RS021,화성휴게소,Mokpo-bound,Seohaean Expressway,Gyeonggi,37.169,126.884,High-traffic,Major west-coast southbound stop,Open 24 hours,Yes
+RS022,화성휴게소,Seoul-bound,Seohaean Expressway,Gyeonggi,37.18,126.883,High-traffic,Major northbound stop before Seoul,Open 24 hours,Yes
+RS023,행담도휴게소,Both directions,Seohaean Expressway,Chungcheong,36.936,126.814,High-traffic,Large bridge-area rest stop and destination stop,Open 24 hours,Yes
+RS024,서산휴게소,Mokpo-bound,Seohaean Expressway,Chungcheong,36.78,126.45,Regular,West-coast travel corridor stop,Open 24 hours,Yes
+RS025,홍성휴게소,Mokpo-bound,Seohaean Expressway,Chungcheong,36.6,126.63,High-traffic,Chungcheong west-coast stop,Open 24 hours,Yes
+RS026,대천휴게소,Mokpo-bound,Seohaean Expressway,Chungcheong,36.332,126.59,High-traffic,Popular stop near Boryeong/Daecheon,Open 24 hours,Yes
+RS027,서천휴게소,Mokpo-bound,Seohaean Expressway,Chungcheong,36.09,126.72,Regular,Southern Chungcheong west-coast stop,Open 24 hours,Yes
+RS028,군산휴게소,Mokpo-bound,Seohaean Expressway,Jeolla,35.97,126.72,High-traffic,Entry point to Jeolla west coast,Open 24 hours,Yes
+RS029,고창고인돌휴게소,Mokpo-bound,Seohaean Expressway,Jeolla,35.45,126.68,Regular,Jeolla cultural-region stop,Open 24 hours,Yes
+RS030,함평천지휴게소,Mokpo-bound,Seohaean Expressway,Jeolla,35.115,126.475,High-traffic,Major stop before Mokpo,Open 24 hours,Yes
+RS031,목포휴게소,Mokpo-bound,Seohaean Expressway,Jeolla,34.82,126.41,Regular,Southern endpoint travel stop,Open 24 hours,Yes
+RS032,정안알밤휴게소,Nonsan-bound,Nonsan-Cheonan Expressway,Chungcheong,36.57,127.115,High-traffic,Chestnut-themed stop between Cheonan and Nonsan,Open 24 hours,Yes
+RS033,정안알밤휴게소,Cheonan-bound,Nonsan-Cheonan Expressway,Chungcheong,36.575,127.118,High-traffic,Northbound stop toward Cheonan and Seoul,Open 24 hours,Yes
+RS034,이인휴게소,Nonsan-bound,Nonsan-Cheonan Expressway,Chungcheong,36.36,127.11,Regular,Quiet stop on the Nonsan-Cheonan route,Open 24 hours,Yes
+RS035,여산휴게소,Suncheon-bound,Honam Expressway,Jeolla,36.055,127.09,High-traffic,Representative stop on the Honam corridor,Open 24 hours,Yes
+RS036,여산휴게소,Nonsan-bound,Honam Expressway,Jeolla,36.07,127.09,High-traffic,Northbound Honam corridor stop,Open 24 hours,Yes
+RS037,익산미륵사지휴게소,Suncheon-bound,Honam Expressway,Jeolla,35.94,127.02,Regular,Rest stop connected with Iksan heritage branding,Open 24 hours,Yes
+RS038,전주휴게소,Suncheon-bound,Honam Expressway,Jeolla,35.835,127.22,High-traffic,Major Jeonju-area stop,Open 24 hours,Yes
+RS039,김제휴게소,Suncheon-bound,Honam Expressway,Jeolla,35.8,126.97,Regular,Jeolla plain-region stop,Open 24 hours,Yes
+RS040,정읍휴게소,Suncheon-bound,Honam Expressway,Jeolla,35.56,126.85,Regular,Mid-Jeolla stop with local food options,Open 24 hours,Yes
+RS041,백양사휴게소,Suncheon-bound,Honam Expressway,Jeolla,35.4,126.83,Regular,Stop near Naejangsan/Baegyangsa area,Open 24 hours,Yes
+RS042,곡성기차마을휴게소,Suncheon-bound,Honam Expressway,Jeolla,35.27,127.29,Regular,Rail-themed regional stop,Open 24 hours,Yes
+RS043,섬진강휴게소,Busan-bound,Namhae Expressway,Jeolla,35.11,127.76,High-traffic,Scenic river-region stop,Open 24 hours,Yes
+RS044,문막휴게소,Gangneung-bound,Yeongdong Expressway,Gangwon,37.31,127.815,High-traffic,Gateway stop toward Gangwon-do,Open 24 hours,No
+RS045,횡성휴게소,Gangneung-bound,Yeongdong Expressway,Gangwon,37.48,128.17,High-traffic,Famous Gangwon rest stop,Open 24 hours,No
+RS046,평창휴게소,Gangneung-bound,Yeongdong Expressway,Gangwon,37.595,128.39,Regular,Mountain travel stop,Open 24 hours,No
+RS047,강릉대관령휴게소,Gangneung-bound,Yeongdong Expressway,Gangwon,37.705,128.75,Regular,Highland stop before Gangneung,Open 24 hours,No
+RS048,마장프리미엄휴게소,Both directions,Jungbu Expressway,Gyeonggi,37.25,127.407,High-traffic,Premium destination-style rest stop,Open 24 hours,No
+RS049,이천휴게소,Tongyeong-bound,Jungbu Expressway,Gyeonggi,37.17,127.425,Regular,Central inland corridor stop,Open 24 hours,No
+RS050,오창휴게소,Tongyeong-bound,Jungbu Expressway,Chungcheong,36.71,127.44,Regular,Chungcheong technology-region stop,Open 24 hours,Yes
+RS051,음성휴게소,Tongyeong-bound,Jungbu Expressway,Chungcheong,36.94,127.61,Regular,Inland route rest stop,Open 24 hours,Yes
+RS052,충주휴게소,Yangpyeong-bound,Jungbu Naeryuk Expressway,Chungcheong,36.97,127.85,Regular,Central inland stop,Open 24 hours,Yes
+RS053,괴산휴게소,Yangpyeong-bound,Jungbu Naeryuk Expressway,Chungcheong,36.81,127.8,Regular,Mountain-region inland stop,Open 24 hours,Yes
+RS054,문경휴게소,Changwon-bound,Jungbu Naeryuk Expressway,Gyeongsang,36.585,128.17,Regular,Mungyeong pass corridor stop,Open 24 hours,No
+RS055,선산휴게소,Changwon-bound,Jungbu Naeryuk Expressway,Gyeongsang,36.25,128.32,Regular,North Gyeongsang inland stop,Open 24 hours,No
+RS056,안동휴게소,Busan-bound,Jungang Expressway,Gyeongsang,36.53,128.71,Regular,Andong-area regional stop,Open 24 hours,No
+RS057,단양팔경휴게소,Busan-bound,Jungang Expressway,Chungcheong,36.99,128.36,Regular,Scenic Danyang-branded stop,Open 24 hours,Yes
+RS058,지리산휴게소,Daegu-bound,Gwangju-Daegu Expressway,Jeolla,35.41,127.58,Regular,Mountain-region rest stop,Open 24 hours,Yes
+RS059,거창휴게소,Daegu-bound,Gwangju-Daegu Expressway,Gyeongsang,35.69,127.92,Regular,Gyeongsang inland travel stop,Open 24 hours,No
+RS060,진영휴게소,Busan-bound,Namhae Expressway,Gyeongsang,35.305,128.72,Regular,Gimhae-area stop,Open 24 hours,No
+RS061,문산휴게소,Suncheon-bound,Namhae Expressway,Gyeongsang,35.17,128.185,Regular,South coast corridor stop,Open 24 hours,No
+RS062,사천휴게소,Busan-bound,Namhae Expressway,Gyeongsang,35.06,128.05,Regular,South Gyeongsang stop,Open 24 hours,No
+RS063,장유휴게소,Busan-bound,Namhae Expressway,Gyeongsang,35.2,128.81,High-traffic,Busy stop near Busan/Gimhae,Open 24 hours,No
+RS064,울주휴게소,Ulsan-bound,Busan-Ulsan Expressway,Gyeongsang,35.535,129.245,Regular,Ulsan-area travel stop,Open 24 hours,No

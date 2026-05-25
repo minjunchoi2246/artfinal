@@ -1,0 +1,321 @@
+rest_stop_id,food_area,store_type,description,operating_hours
+RS001,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS001,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS001,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS001,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS001,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS002,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS002,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS002,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS002,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS002,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS003,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS003,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS003,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS003,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS003,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS004,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS004,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS004,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS004,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS004,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS005,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS005,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS005,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS005,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS005,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS006,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS006,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS006,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS006,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS006,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS007,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS007,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS007,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS007,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS007,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS008,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS008,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS008,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS008,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS008,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS009,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS009,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS009,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS009,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS009,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS010,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS010,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS010,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS010,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS010,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS011,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS011,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS011,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS011,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS011,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS012,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS012,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS012,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS012,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS012,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS013,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS013,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS013,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS013,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS013,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS014,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS014,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS014,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS014,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS014,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS015,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS015,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS015,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS015,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS015,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS016,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS016,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS016,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS016,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS016,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS017,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS017,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS017,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS017,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS017,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS018,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS018,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS018,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS018,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS018,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS019,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS019,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS019,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS019,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS019,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS020,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS020,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS020,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS020,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS020,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS021,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS021,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS021,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS021,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS021,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS022,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS022,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS022,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS022,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS022,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS023,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS023,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS023,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS023,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS023,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS024,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS024,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS024,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS024,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS024,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS025,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS025,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS025,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS025,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS025,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS026,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS026,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS026,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS026,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS026,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS027,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS027,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS027,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS027,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS027,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS028,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS028,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS028,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS028,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS028,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS029,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS029,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS029,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS029,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS029,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS030,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS030,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS030,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS030,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS030,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS031,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS031,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS031,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS031,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS031,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS032,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS032,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS032,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS032,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS032,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS033,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS033,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS033,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS033,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS033,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS034,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS034,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS034,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS034,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS034,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS035,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS035,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS035,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS035,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS035,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS036,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS036,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS036,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS036,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS036,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS037,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS037,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS037,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS037,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS037,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS038,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS038,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS038,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS038,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS038,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS039,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS039,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS039,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS039,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS039,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS040,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS040,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS040,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS040,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS040,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS041,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS041,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS041,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS041,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS041,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS042,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS042,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS042,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS042,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS042,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS043,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS043,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS043,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS043,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS043,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS044,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS044,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS044,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS044,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS044,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS045,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS045,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS045,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS045,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS045,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS046,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS046,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS046,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS046,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS046,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS047,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS047,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS047,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS047,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS047,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS048,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS048,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS048,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS048,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS048,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS049,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS049,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS049,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS049,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS049,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS050,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS050,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS050,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS050,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS050,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS051,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS051,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS051,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS051,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS051,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS052,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS052,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS052,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS052,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS052,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS053,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS053,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS053,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS053,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS053,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS054,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS054,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS054,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS054,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS054,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS055,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS055,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS055,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS055,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS055,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS056,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS056,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS056,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS056,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS056,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS057,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS057,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS057,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS057,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS057,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS058,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS058,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS058,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS058,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS058,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS059,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS059,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS059,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS059,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS059,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS060,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS060,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS060,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS060,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS060,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS061,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS061,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS061,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS061,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS061,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS062,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS062,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS062,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS062,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS062,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS063,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS063,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS063,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS063,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS063,Convenience Store,Convenience Store,Packaged food and travel items,24 hours
+RS064,Korean Food Court,Korean Food Court,"Korean meals, stews, rice bowls",06:00–22:00
+RS064,Noodle Bar,Noodle Bar,"Udon, ramyeon, noodles",07:00–22:00
+RS064,Snack Corner,Snack Corner,"Skewers, fish cakes, quick bites",08:00–21:00
+RS064,Cafe & Dessert,Cafe & Dessert,"Coffee, drinks, desserts",07:00–23:00
+RS064,Convenience Store,Convenience Store,Packaged food and travel items,24 hours

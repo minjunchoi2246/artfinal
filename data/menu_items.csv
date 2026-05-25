@@ -1,0 +1,769 @@
+rest_stop_id,food_area,menu_item,food_category,price_krw,availability,is_signature,recommended,sample_rating
+RS001,Korean Food Court,Premium Tonkatsu Set,Korean-Western,12500,Breakfast to dinner,Yes,Yes,4.0
+RS001,Korean Food Court,Seoul-Style Bulgogi Bowl,Korean Meal,12000,Lunch and dinner,No,Yes,4.1
+RS001,Korean Food Court,Expressway Breakfast Set,Korean Meal,9000,Breakfast to dinner,No,No,4.2
+RS001,Snack Corner,Family Snack Combo,Snack,9500,Lunch and dinner,No,No,4.3
+RS001,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,4.4
+RS001,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,4.5
+RS001,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.6
+RS001,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,4.7
+RS001,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,4.8
+RS001,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.9
+RS001,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,3.8
+RS001,Cafe & Dessert,Americano,Drink,4000,All day,No,No,3.9
+RS002,Korean Food Court,Premium Tonkatsu Set,Korean-Western,13000,Breakfast to dinner,Yes,Yes,4.1
+RS002,Korean Food Court,Seoul-Style Bulgogi Bowl,Korean Meal,12500,Lunch and dinner,No,Yes,4.2
+RS002,Korean Food Court,Expressway Breakfast Set,Korean Meal,9500,Breakfast to dinner,No,No,4.3
+RS002,Snack Corner,Family Snack Combo,Snack,10000,Lunch and dinner,No,No,4.4
+RS002,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,4.5
+RS002,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.6
+RS002,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,4.7
+RS002,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,4.8
+RS002,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.9
+RS002,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,3.8
+RS002,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,3.9
+RS002,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.0
+RS003,Korean Food Court,Premium Tonkatsu Set,Korean-Western,12000,Breakfast to dinner,Yes,Yes,4.2
+RS003,Korean Food Court,Seoul-Style Bulgogi Bowl,Korean Meal,11500,Lunch and dinner,No,Yes,4.3
+RS003,Korean Food Court,Expressway Breakfast Set,Korean Meal,8500,Breakfast to dinner,No,No,4.4
+RS003,Snack Corner,Family Snack Combo,Snack,9000,Lunch and dinner,No,No,4.5
+RS003,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.6
+RS003,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,4.7
+RS003,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,4.8
+RS003,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.9
+RS003,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,3.8
+RS003,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,3.9
+RS003,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.0
+RS003,Cafe & Dessert,Americano,Drink,3500,All day,No,No,4.1
+RS004,Korean Food Court,Premium Tonkatsu Set,Korean-Western,12500,Breakfast to dinner,Yes,Yes,4.3
+RS004,Korean Food Court,Seoul-Style Bulgogi Bowl,Korean Meal,12000,Lunch and dinner,No,Yes,4.4
+RS004,Korean Food Court,Expressway Breakfast Set,Korean Meal,9000,Breakfast to dinner,No,No,4.5
+RS004,Snack Corner,Family Snack Combo,Snack,9500,Lunch and dinner,No,No,4.6
+RS004,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,4.7
+RS004,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,4.8
+RS004,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.9
+RS004,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,3.8
+RS004,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,3.9
+RS004,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.0
+RS004,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,4.1
+RS004,Cafe & Dessert,Americano,Drink,4000,All day,No,No,4.2
+RS005,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,13000,Breakfast to dinner,Yes,Yes,4.4
+RS005,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,7500,All day,No,Yes,4.5
+RS005,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,9500,Breakfast to dinner,No,No,4.6
+RS005,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,10000,Lunch and dinner,No,No,4.7
+RS005,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,4.8
+RS005,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.9
+RS005,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,3.8
+RS005,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,3.9
+RS005,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.0
+RS005,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,4.1
+RS005,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,4.2
+RS005,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.3
+RS006,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,12000,Breakfast to dinner,Yes,Yes,4.5
+RS006,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,6500,All day,No,Yes,4.6
+RS006,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,8500,Breakfast to dinner,No,No,4.7
+RS006,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,9000,Lunch and dinner,No,No,4.8
+RS006,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.9
+RS006,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,3.8
+RS006,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,3.9
+RS006,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.0
+RS006,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,4.1
+RS006,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,4.2
+RS006,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.3
+RS006,Cafe & Dessert,Americano,Drink,3500,All day,No,No,4.4
+RS007,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,12500,Breakfast to dinner,Yes,Yes,4.6
+RS007,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,7000,All day,No,Yes,4.7
+RS007,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,9000,Breakfast to dinner,No,No,4.8
+RS007,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,9500,Lunch and dinner,No,No,4.9
+RS007,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,3.8
+RS007,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,3.9
+RS007,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.0
+RS007,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,4.1
+RS007,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,4.2
+RS007,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.3
+RS007,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,4.4
+RS007,Cafe & Dessert,Americano,Drink,4000,All day,No,No,4.5
+RS008,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,13000,Breakfast to dinner,Yes,Yes,4.7
+RS008,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,7500,All day,No,Yes,4.8
+RS008,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,9500,Breakfast to dinner,No,No,4.9
+RS008,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,10000,Lunch and dinner,No,No,3.8
+RS008,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,3.9
+RS008,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.0
+RS008,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,4.1
+RS008,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,4.2
+RS008,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.3
+RS008,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,4.4
+RS008,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,4.5
+RS008,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.6
+RS009,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,12000,Breakfast to dinner,Yes,Yes,4.8
+RS009,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,6500,All day,No,Yes,4.9
+RS009,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,8500,Breakfast to dinner,No,No,3.8
+RS009,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,9000,Lunch and dinner,No,No,3.9
+RS009,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.0
+RS009,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,4.1
+RS009,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,4.2
+RS009,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.3
+RS009,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,4.4
+RS009,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,4.5
+RS009,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.6
+RS009,Cafe & Dessert,Americano,Drink,3500,All day,No,No,4.7
+RS010,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,12500,Breakfast to dinner,Yes,Yes,4.9
+RS010,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,7000,All day,No,Yes,3.8
+RS010,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,9000,Breakfast to dinner,No,No,3.9
+RS010,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,9500,Lunch and dinner,No,No,4.0
+RS010,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,4.1
+RS010,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,4.2
+RS010,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.3
+RS010,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,4.4
+RS010,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,4.5
+RS010,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.6
+RS010,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,4.7
+RS010,Cafe & Dessert,Americano,Drink,4000,All day,No,No,4.8
+RS011,Korean Food Court,Daejeon Spicy Tofu Stew,Korean Meal,10500,Breakfast to dinner,Yes,Yes,3.8
+RS011,Noodle Bar,Railway Station Udon,Noodles,9000,Lunch and dinner,No,Yes,3.9
+RS011,Korean Food Court,Grilled Pork Rice Plate,Korean Meal,11500,Breakfast to dinner,No,No,4.0
+RS011,Cafe & Dessert,Hotteok Dessert Set,Dessert,7000,All day,No,No,4.1
+RS011,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,4.2
+RS011,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.3
+RS011,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,4.4
+RS011,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,4.5
+RS011,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.6
+RS011,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,4.7
+RS011,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,4.8
+RS011,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.9
+RS012,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,12000,Breakfast to dinner,Yes,Yes,3.9
+RS012,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,6500,All day,No,Yes,4.0
+RS012,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,8500,Breakfast to dinner,No,No,4.1
+RS012,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,9000,Lunch and dinner,No,No,4.2
+RS012,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.3
+RS012,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,4.4
+RS012,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,4.5
+RS012,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.6
+RS012,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,4.7
+RS012,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,4.8
+RS012,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.9
+RS012,Cafe & Dessert,Americano,Drink,3500,All day,No,No,3.8
+RS013,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,12500,Breakfast to dinner,Yes,Yes,4.0
+RS013,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,7000,All day,No,Yes,4.1
+RS013,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,9000,Breakfast to dinner,No,No,4.2
+RS013,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,9500,Lunch and dinner,No,No,4.3
+RS013,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,4.4
+RS013,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,4.5
+RS013,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.6
+RS013,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,4.7
+RS013,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,4.8
+RS013,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.9
+RS013,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,3.8
+RS013,Cafe & Dessert,Americano,Drink,4000,All day,No,No,3.9
+RS014,Korean Food Court,Pork Soup Rice,Regional Signature,11500,Breakfast to dinner,Yes,Yes,4.1
+RS014,Korean Food Court,Daegu Spicy Beef Soup,Korean Meal,12000,Lunch and dinner,No,Yes,4.2
+RS014,Korean Food Court,Gyeongju Barley Bibimbap,Regional Signature,12500,Breakfast to dinner,No,No,4.3
+RS014,Korean Food Court,Miryang Pork Cutlet,Korean-Western,12500,Lunch and dinner,No,No,4.4
+RS014,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,4.5
+RS014,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.6
+RS014,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,4.7
+RS014,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,4.8
+RS014,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.9
+RS014,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,3.8
+RS014,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,3.9
+RS014,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.0
+RS015,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,12000,Breakfast to dinner,Yes,Yes,4.2
+RS015,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,6500,All day,No,Yes,4.3
+RS015,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,8500,Breakfast to dinner,No,No,4.4
+RS015,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,9000,Lunch and dinner,No,No,4.5
+RS015,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.6
+RS015,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,4.7
+RS015,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,4.8
+RS015,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.9
+RS015,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,3.8
+RS015,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,3.9
+RS015,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.0
+RS015,Cafe & Dessert,Americano,Drink,3500,All day,No,No,4.1
+RS016,Korean Food Court,Pork Soup Rice,Regional Signature,11000,Breakfast to dinner,Yes,Yes,4.3
+RS016,Korean Food Court,Daegu Spicy Beef Soup,Korean Meal,11500,Lunch and dinner,No,Yes,4.4
+RS016,Korean Food Court,Gyeongju Barley Bibimbap,Regional Signature,12000,Breakfast to dinner,No,No,4.5
+RS016,Korean Food Court,Miryang Pork Cutlet,Korean-Western,12000,Lunch and dinner,No,No,4.6
+RS016,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,4.7
+RS016,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,4.8
+RS016,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.9
+RS016,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,3.8
+RS016,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,3.9
+RS016,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.0
+RS016,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,4.1
+RS016,Cafe & Dessert,Americano,Drink,4000,All day,No,No,4.2
+RS017,Korean Food Court,Pork Soup Rice,Regional Signature,11500,Breakfast to dinner,Yes,Yes,4.4
+RS017,Korean Food Court,Daegu Spicy Beef Soup,Korean Meal,12000,Lunch and dinner,No,Yes,4.5
+RS017,Korean Food Court,Gyeongju Barley Bibimbap,Regional Signature,12500,Breakfast to dinner,No,No,4.6
+RS017,Korean Food Court,Miryang Pork Cutlet,Korean-Western,12500,Lunch and dinner,No,No,4.7
+RS017,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,4.8
+RS017,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.9
+RS017,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,3.8
+RS017,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,3.9
+RS017,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.0
+RS017,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,4.1
+RS017,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,4.2
+RS017,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.3
+RS018,Korean Food Court,Pork Soup Rice,Regional Signature,10500,Breakfast to dinner,Yes,Yes,4.5
+RS018,Korean Food Court,Daegu Spicy Beef Soup,Korean Meal,11000,Lunch and dinner,No,Yes,4.6
+RS018,Korean Food Court,Gyeongju Barley Bibimbap,Regional Signature,11500,Breakfast to dinner,No,No,4.7
+RS018,Korean Food Court,Miryang Pork Cutlet,Korean-Western,11500,Lunch and dinner,No,No,4.8
+RS018,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.9
+RS018,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,3.8
+RS018,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,3.9
+RS018,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.0
+RS018,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,4.1
+RS018,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,4.2
+RS018,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.3
+RS018,Cafe & Dessert,Americano,Drink,3500,All day,No,No,4.4
+RS019,Korean Food Court,Pork Soup Rice,Regional Signature,11000,Breakfast to dinner,Yes,Yes,4.6
+RS019,Korean Food Court,Daegu Spicy Beef Soup,Korean Meal,11500,Lunch and dinner,No,Yes,4.7
+RS019,Korean Food Court,Gyeongju Barley Bibimbap,Regional Signature,12000,Breakfast to dinner,No,No,4.8
+RS019,Korean Food Court,Miryang Pork Cutlet,Korean-Western,12000,Lunch and dinner,No,No,4.9
+RS019,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,3.8
+RS019,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,3.9
+RS019,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.0
+RS019,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,4.1
+RS019,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,4.2
+RS019,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.3
+RS019,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,4.4
+RS019,Cafe & Dessert,Americano,Drink,4000,All day,No,No,4.5
+RS020,Korean Food Court,Pork Soup Rice,Regional Signature,11500,Breakfast to dinner,Yes,Yes,4.7
+RS020,Korean Food Court,Daegu Spicy Beef Soup,Korean Meal,12000,Lunch and dinner,No,Yes,4.8
+RS020,Korean Food Court,Gyeongju Barley Bibimbap,Regional Signature,12500,Breakfast to dinner,No,No,4.9
+RS020,Korean Food Court,Miryang Pork Cutlet,Korean-Western,12500,Lunch and dinner,No,No,3.8
+RS020,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,3.9
+RS020,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.0
+RS020,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,4.1
+RS020,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,4.2
+RS020,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.3
+RS020,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,4.4
+RS020,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,4.5
+RS020,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.6
+RS021,Korean Food Court,Premium Tonkatsu Set,Korean-Western,12000,Breakfast to dinner,Yes,Yes,4.8
+RS021,Korean Food Court,Seoul-Style Bulgogi Bowl,Korean Meal,11500,Lunch and dinner,No,Yes,4.9
+RS021,Korean Food Court,Expressway Breakfast Set,Korean Meal,8500,Breakfast to dinner,No,No,3.8
+RS021,Snack Corner,Family Snack Combo,Snack,9000,Lunch and dinner,No,No,3.9
+RS021,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.0
+RS021,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,4.1
+RS021,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,4.2
+RS021,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.3
+RS021,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,4.4
+RS021,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,4.5
+RS021,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.6
+RS021,Cafe & Dessert,Americano,Drink,3500,All day,No,No,4.7
+RS022,Korean Food Court,Premium Tonkatsu Set,Korean-Western,12500,Breakfast to dinner,Yes,Yes,4.9
+RS022,Korean Food Court,Seoul-Style Bulgogi Bowl,Korean Meal,12000,Lunch and dinner,No,Yes,3.8
+RS022,Korean Food Court,Expressway Breakfast Set,Korean Meal,9000,Breakfast to dinner,No,No,3.9
+RS022,Snack Corner,Family Snack Combo,Snack,9500,Lunch and dinner,No,No,4.0
+RS022,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,4.1
+RS022,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,4.2
+RS022,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.3
+RS022,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,4.4
+RS022,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,4.5
+RS022,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.6
+RS022,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,4.7
+RS022,Cafe & Dessert,Americano,Drink,4000,All day,No,No,4.8
+RS023,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,13000,Breakfast to dinner,Yes,Yes,3.8
+RS023,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,7500,All day,No,Yes,3.9
+RS023,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,9500,Breakfast to dinner,No,No,4.0
+RS023,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,10000,Lunch and dinner,No,No,4.1
+RS023,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,4.2
+RS023,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.3
+RS023,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,4.4
+RS023,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,4.5
+RS023,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.6
+RS023,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,4.7
+RS023,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,4.8
+RS023,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.9
+RS024,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,12000,Breakfast to dinner,Yes,Yes,3.9
+RS024,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,6500,All day,No,Yes,4.0
+RS024,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,8500,Breakfast to dinner,No,No,4.1
+RS024,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,9000,Lunch and dinner,No,No,4.2
+RS024,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.3
+RS024,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,4.4
+RS024,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,4.5
+RS024,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.6
+RS024,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,4.7
+RS024,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,4.8
+RS024,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.9
+RS024,Cafe & Dessert,Americano,Drink,3500,All day,No,No,3.8
+RS025,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,12500,Breakfast to dinner,Yes,Yes,4.0
+RS025,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,7000,All day,No,Yes,4.1
+RS025,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,9000,Breakfast to dinner,No,No,4.2
+RS025,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,9500,Lunch and dinner,No,No,4.3
+RS025,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,4.4
+RS025,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,4.5
+RS025,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.6
+RS025,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,4.7
+RS025,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,4.8
+RS025,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.9
+RS025,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,3.8
+RS025,Cafe & Dessert,Americano,Drink,4000,All day,No,No,3.9
+RS026,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,13000,Breakfast to dinner,Yes,Yes,4.1
+RS026,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,7500,All day,No,Yes,4.2
+RS026,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,9500,Breakfast to dinner,No,No,4.3
+RS026,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,10000,Lunch and dinner,No,No,4.4
+RS026,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,4.5
+RS026,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.6
+RS026,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,4.7
+RS026,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,4.8
+RS026,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.9
+RS026,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,3.8
+RS026,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,3.9
+RS026,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.0
+RS027,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,12000,Breakfast to dinner,Yes,Yes,4.2
+RS027,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,6500,All day,No,Yes,4.3
+RS027,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,8500,Breakfast to dinner,No,No,4.4
+RS027,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,9000,Lunch and dinner,No,No,4.5
+RS027,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.6
+RS027,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,4.7
+RS027,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,4.8
+RS027,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.9
+RS027,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,3.8
+RS027,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,3.9
+RS027,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.0
+RS027,Cafe & Dessert,Americano,Drink,3500,All day,No,No,4.1
+RS028,Korean Food Court,Jeonju Bibimbap Set,Regional Signature,12500,Breakfast to dinner,Yes,Yes,4.3
+RS028,Korean Food Court,Gochujang Pork Rice Bowl,Korean Meal,11000,Lunch and dinner,No,Yes,4.4
+RS028,Korean Food Court,Namdo Tteokgalbi Plate,Regional Signature,13500,Breakfast to dinner,No,No,4.5
+RS028,Korean Food Court,Kimchi Fried Rice with Egg,Korean Meal,9500,Lunch and dinner,No,No,4.6
+RS028,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,4.7
+RS028,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,4.8
+RS028,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.9
+RS028,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,3.8
+RS028,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,3.9
+RS028,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.0
+RS028,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,4.1
+RS028,Cafe & Dessert,Americano,Drink,4000,All day,No,No,4.2
+RS029,Korean Food Court,Jeonju Bibimbap Set,Regional Signature,13000,Breakfast to dinner,Yes,Yes,4.4
+RS029,Korean Food Court,Gochujang Pork Rice Bowl,Korean Meal,11500,Lunch and dinner,No,Yes,4.5
+RS029,Korean Food Court,Namdo Tteokgalbi Plate,Regional Signature,14000,Breakfast to dinner,No,No,4.6
+RS029,Korean Food Court,Kimchi Fried Rice with Egg,Korean Meal,10000,Lunch and dinner,No,No,4.7
+RS029,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,4.8
+RS029,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.9
+RS029,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,3.8
+RS029,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,3.9
+RS029,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.0
+RS029,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,4.1
+RS029,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,4.2
+RS029,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.3
+RS030,Korean Food Court,Jeonju Bibimbap Set,Regional Signature,12000,Breakfast to dinner,Yes,Yes,4.5
+RS030,Korean Food Court,Gochujang Pork Rice Bowl,Korean Meal,10500,Lunch and dinner,No,Yes,4.6
+RS030,Korean Food Court,Namdo Tteokgalbi Plate,Regional Signature,13000,Breakfast to dinner,No,No,4.7
+RS030,Korean Food Court,Kimchi Fried Rice with Egg,Korean Meal,9000,Lunch and dinner,No,No,4.8
+RS030,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.9
+RS030,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,3.8
+RS030,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,3.9
+RS030,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.0
+RS030,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,4.1
+RS030,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,4.2
+RS030,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.3
+RS030,Cafe & Dessert,Americano,Drink,3500,All day,No,No,4.4
+RS031,Korean Food Court,Jeonju Bibimbap Set,Regional Signature,12500,Breakfast to dinner,Yes,Yes,4.6
+RS031,Korean Food Court,Gochujang Pork Rice Bowl,Korean Meal,11000,Lunch and dinner,No,Yes,4.7
+RS031,Korean Food Court,Namdo Tteokgalbi Plate,Regional Signature,13500,Breakfast to dinner,No,No,4.8
+RS031,Korean Food Court,Kimchi Fried Rice with Egg,Korean Meal,9500,Lunch and dinner,No,No,4.9
+RS031,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,3.8
+RS031,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,3.9
+RS031,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.0
+RS031,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,4.1
+RS031,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,4.2
+RS031,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.3
+RS031,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,4.4
+RS031,Cafe & Dessert,Americano,Drink,4000,All day,No,No,4.5
+RS032,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,13000,Breakfast to dinner,Yes,Yes,4.7
+RS032,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,7500,All day,No,Yes,4.8
+RS032,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,9500,Breakfast to dinner,No,No,4.9
+RS032,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,10000,Lunch and dinner,No,No,3.8
+RS032,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,3.9
+RS032,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.0
+RS032,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,4.1
+RS032,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,4.2
+RS032,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.3
+RS032,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,4.4
+RS032,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,4.5
+RS032,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.6
+RS033,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,12000,Breakfast to dinner,Yes,Yes,4.8
+RS033,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,6500,All day,No,Yes,4.9
+RS033,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,8500,Breakfast to dinner,No,No,3.8
+RS033,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,9000,Lunch and dinner,No,No,3.9
+RS033,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.0
+RS033,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,4.1
+RS033,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,4.2
+RS033,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.3
+RS033,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,4.4
+RS033,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,4.5
+RS033,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.6
+RS033,Cafe & Dessert,Americano,Drink,3500,All day,No,No,4.7
+RS034,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,12500,Breakfast to dinner,Yes,Yes,4.9
+RS034,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,7000,All day,No,Yes,3.8
+RS034,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,9000,Breakfast to dinner,No,No,3.9
+RS034,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,9500,Lunch and dinner,No,No,4.0
+RS034,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,4.1
+RS034,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,4.2
+RS034,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.3
+RS034,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,4.4
+RS034,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,4.5
+RS034,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.6
+RS034,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,4.7
+RS034,Cafe & Dessert,Americano,Drink,4000,All day,No,No,4.8
+RS035,Korean Food Court,Jeonju Bibimbap Set,Regional Signature,13000,Breakfast to dinner,Yes,Yes,3.8
+RS035,Korean Food Court,Gochujang Pork Rice Bowl,Korean Meal,11500,Lunch and dinner,No,Yes,3.9
+RS035,Korean Food Court,Namdo Tteokgalbi Plate,Regional Signature,14000,Breakfast to dinner,No,No,4.0
+RS035,Korean Food Court,Kimchi Fried Rice with Egg,Korean Meal,10000,Lunch and dinner,No,No,4.1
+RS035,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,4.2
+RS035,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.3
+RS035,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,4.4
+RS035,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,4.5
+RS035,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.6
+RS035,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,4.7
+RS035,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,4.8
+RS035,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.9
+RS036,Korean Food Court,Jeonju Bibimbap Set,Regional Signature,12000,Breakfast to dinner,Yes,Yes,3.9
+RS036,Korean Food Court,Gochujang Pork Rice Bowl,Korean Meal,10500,Lunch and dinner,No,Yes,4.0
+RS036,Korean Food Court,Namdo Tteokgalbi Plate,Regional Signature,13000,Breakfast to dinner,No,No,4.1
+RS036,Korean Food Court,Kimchi Fried Rice with Egg,Korean Meal,9000,Lunch and dinner,No,No,4.2
+RS036,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.3
+RS036,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,4.4
+RS036,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,4.5
+RS036,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.6
+RS036,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,4.7
+RS036,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,4.8
+RS036,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.9
+RS036,Cafe & Dessert,Americano,Drink,3500,All day,No,No,3.8
+RS037,Korean Food Court,Jeonju Bibimbap Set,Regional Signature,12500,Breakfast to dinner,Yes,Yes,4.0
+RS037,Korean Food Court,Gochujang Pork Rice Bowl,Korean Meal,11000,Lunch and dinner,No,Yes,4.1
+RS037,Korean Food Court,Namdo Tteokgalbi Plate,Regional Signature,13500,Breakfast to dinner,No,No,4.2
+RS037,Korean Food Court,Kimchi Fried Rice with Egg,Korean Meal,9500,Lunch and dinner,No,No,4.3
+RS037,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,4.4
+RS037,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,4.5
+RS037,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.6
+RS037,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,4.7
+RS037,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,4.8
+RS037,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.9
+RS037,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,3.8
+RS037,Cafe & Dessert,Americano,Drink,4000,All day,No,No,3.9
+RS038,Korean Food Court,Jeonju Bibimbap Set,Regional Signature,13000,Breakfast to dinner,Yes,Yes,4.1
+RS038,Korean Food Court,Gochujang Pork Rice Bowl,Korean Meal,11500,Lunch and dinner,No,Yes,4.2
+RS038,Korean Food Court,Namdo Tteokgalbi Plate,Regional Signature,14000,Breakfast to dinner,No,No,4.3
+RS038,Korean Food Court,Kimchi Fried Rice with Egg,Korean Meal,10000,Lunch and dinner,No,No,4.4
+RS038,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,4.5
+RS038,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.6
+RS038,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,4.7
+RS038,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,4.8
+RS038,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.9
+RS038,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,3.8
+RS038,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,3.9
+RS038,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.0
+RS039,Korean Food Court,Jeonju Bibimbap Set,Regional Signature,12000,Breakfast to dinner,Yes,Yes,4.2
+RS039,Korean Food Court,Gochujang Pork Rice Bowl,Korean Meal,10500,Lunch and dinner,No,Yes,4.3
+RS039,Korean Food Court,Namdo Tteokgalbi Plate,Regional Signature,13000,Breakfast to dinner,No,No,4.4
+RS039,Korean Food Court,Kimchi Fried Rice with Egg,Korean Meal,9000,Lunch and dinner,No,No,4.5
+RS039,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.6
+RS039,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,4.7
+RS039,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,4.8
+RS039,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.9
+RS039,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,3.8
+RS039,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,3.9
+RS039,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.0
+RS039,Cafe & Dessert,Americano,Drink,3500,All day,No,No,4.1
+RS040,Korean Food Court,Jeonju Bibimbap Set,Regional Signature,12500,Breakfast to dinner,Yes,Yes,4.3
+RS040,Korean Food Court,Gochujang Pork Rice Bowl,Korean Meal,11000,Lunch and dinner,No,Yes,4.4
+RS040,Korean Food Court,Namdo Tteokgalbi Plate,Regional Signature,13500,Breakfast to dinner,No,No,4.5
+RS040,Korean Food Court,Kimchi Fried Rice with Egg,Korean Meal,9500,Lunch and dinner,No,No,4.6
+RS040,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,4.7
+RS040,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,4.8
+RS040,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.9
+RS040,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,3.8
+RS040,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,3.9
+RS040,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.0
+RS040,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,4.1
+RS040,Cafe & Dessert,Americano,Drink,4000,All day,No,No,4.2
+RS041,Korean Food Court,Jeonju Bibimbap Set,Regional Signature,13000,Breakfast to dinner,Yes,Yes,4.4
+RS041,Korean Food Court,Gochujang Pork Rice Bowl,Korean Meal,11500,Lunch and dinner,No,Yes,4.5
+RS041,Korean Food Court,Namdo Tteokgalbi Plate,Regional Signature,14000,Breakfast to dinner,No,No,4.6
+RS041,Korean Food Court,Kimchi Fried Rice with Egg,Korean Meal,10000,Lunch and dinner,No,No,4.7
+RS041,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,4.8
+RS041,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.9
+RS041,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,3.8
+RS041,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,3.9
+RS041,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.0
+RS041,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,4.1
+RS041,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,4.2
+RS041,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.3
+RS042,Korean Food Court,Jeonju Bibimbap Set,Regional Signature,12000,Breakfast to dinner,Yes,Yes,4.5
+RS042,Korean Food Court,Gochujang Pork Rice Bowl,Korean Meal,10500,Lunch and dinner,No,Yes,4.6
+RS042,Korean Food Court,Namdo Tteokgalbi Plate,Regional Signature,13000,Breakfast to dinner,No,No,4.7
+RS042,Korean Food Court,Kimchi Fried Rice with Egg,Korean Meal,9000,Lunch and dinner,No,No,4.8
+RS042,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.9
+RS042,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,3.8
+RS042,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,3.9
+RS042,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.0
+RS042,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,4.1
+RS042,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,4.2
+RS042,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.3
+RS042,Cafe & Dessert,Americano,Drink,3500,All day,No,No,4.4
+RS043,Korean Food Court,Jeonju Bibimbap Set,Regional Signature,12500,Breakfast to dinner,Yes,Yes,4.6
+RS043,Korean Food Court,Gochujang Pork Rice Bowl,Korean Meal,11000,Lunch and dinner,No,Yes,4.7
+RS043,Korean Food Court,Namdo Tteokgalbi Plate,Regional Signature,13500,Breakfast to dinner,No,No,4.8
+RS043,Korean Food Court,Kimchi Fried Rice with Egg,Korean Meal,9500,Lunch and dinner,No,No,4.9
+RS043,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,3.8
+RS043,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,3.9
+RS043,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.0
+RS043,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,4.1
+RS043,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,4.2
+RS043,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.3
+RS043,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,4.4
+RS043,Cafe & Dessert,Americano,Drink,4000,All day,No,No,4.5
+RS044,Korean Food Court,Hoengseong Beef Soup,Regional Signature,14500,Breakfast to dinner,Yes,Yes,4.7
+RS044,Korean Food Court,Potato Ongsimi Soup,Regional Signature,12000,Lunch and dinner,No,Yes,4.8
+RS044,Noodle Bar,Buckwheat Noodle Set,Noodles,10500,Breakfast to dinner,No,No,4.9
+RS044,Korean Food Court,Mountain Herb Bibimbap,Korean Meal,12500,Lunch and dinner,No,No,3.8
+RS044,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,3.9
+RS044,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.0
+RS044,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,4.1
+RS044,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,4.2
+RS044,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.3
+RS044,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,4.4
+RS044,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,4.5
+RS044,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.6
+RS045,Korean Food Court,Hoengseong Beef Soup,Regional Signature,13500,Breakfast to dinner,Yes,Yes,4.8
+RS045,Korean Food Court,Potato Ongsimi Soup,Regional Signature,11000,Lunch and dinner,No,Yes,4.9
+RS045,Noodle Bar,Buckwheat Noodle Set,Noodles,9500,Breakfast to dinner,No,No,3.8
+RS045,Korean Food Court,Mountain Herb Bibimbap,Korean Meal,11500,Lunch and dinner,No,No,3.9
+RS045,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.0
+RS045,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,4.1
+RS045,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,4.2
+RS045,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.3
+RS045,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,4.4
+RS045,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,4.5
+RS045,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.6
+RS045,Cafe & Dessert,Americano,Drink,3500,All day,No,No,4.7
+RS046,Korean Food Court,Hoengseong Beef Soup,Regional Signature,14000,Breakfast to dinner,Yes,Yes,4.9
+RS046,Korean Food Court,Potato Ongsimi Soup,Regional Signature,11500,Lunch and dinner,No,Yes,3.8
+RS046,Noodle Bar,Buckwheat Noodle Set,Noodles,10000,Breakfast to dinner,No,No,3.9
+RS046,Korean Food Court,Mountain Herb Bibimbap,Korean Meal,12000,Lunch and dinner,No,No,4.0
+RS046,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,4.1
+RS046,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,4.2
+RS046,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.3
+RS046,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,4.4
+RS046,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,4.5
+RS046,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.6
+RS046,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,4.7
+RS046,Cafe & Dessert,Americano,Drink,4000,All day,No,No,4.8
+RS047,Korean Food Court,Hoengseong Beef Soup,Regional Signature,14500,Breakfast to dinner,Yes,Yes,3.8
+RS047,Korean Food Court,Potato Ongsimi Soup,Regional Signature,12000,Lunch and dinner,No,Yes,3.9
+RS047,Noodle Bar,Buckwheat Noodle Set,Noodles,10500,Breakfast to dinner,No,No,4.0
+RS047,Korean Food Court,Mountain Herb Bibimbap,Korean Meal,12500,Lunch and dinner,No,No,4.1
+RS047,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,4.2
+RS047,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.3
+RS047,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,4.4
+RS047,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,4.5
+RS047,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.6
+RS047,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,4.7
+RS047,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,4.8
+RS047,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.9
+RS048,Korean Food Court,Premium Tonkatsu Set,Korean-Western,12000,Breakfast to dinner,Yes,Yes,3.9
+RS048,Korean Food Court,Seoul-Style Bulgogi Bowl,Korean Meal,11500,Lunch and dinner,No,Yes,4.0
+RS048,Korean Food Court,Expressway Breakfast Set,Korean Meal,8500,Breakfast to dinner,No,No,4.1
+RS048,Snack Corner,Family Snack Combo,Snack,9000,Lunch and dinner,No,No,4.2
+RS048,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.3
+RS048,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,4.4
+RS048,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,4.5
+RS048,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.6
+RS048,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,4.7
+RS048,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,4.8
+RS048,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.9
+RS048,Cafe & Dessert,Americano,Drink,3500,All day,No,No,3.8
+RS049,Korean Food Court,Premium Tonkatsu Set,Korean-Western,12500,Breakfast to dinner,Yes,Yes,4.0
+RS049,Korean Food Court,Seoul-Style Bulgogi Bowl,Korean Meal,12000,Lunch and dinner,No,Yes,4.1
+RS049,Korean Food Court,Expressway Breakfast Set,Korean Meal,9000,Breakfast to dinner,No,No,4.2
+RS049,Snack Corner,Family Snack Combo,Snack,9500,Lunch and dinner,No,No,4.3
+RS049,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,4.4
+RS049,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,4.5
+RS049,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.6
+RS049,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,4.7
+RS049,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,4.8
+RS049,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.9
+RS049,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,3.8
+RS049,Cafe & Dessert,Americano,Drink,4000,All day,No,No,3.9
+RS050,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,13000,Breakfast to dinner,Yes,Yes,4.1
+RS050,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,7500,All day,No,Yes,4.2
+RS050,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,9500,Breakfast to dinner,No,No,4.3
+RS050,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,10000,Lunch and dinner,No,No,4.4
+RS050,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,4.5
+RS050,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.6
+RS050,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,4.7
+RS050,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,4.8
+RS050,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.9
+RS050,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,3.8
+RS050,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,3.9
+RS050,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.0
+RS051,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,12000,Breakfast to dinner,Yes,Yes,4.2
+RS051,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,6500,All day,No,Yes,4.3
+RS051,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,8500,Breakfast to dinner,No,No,4.4
+RS051,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,9000,Lunch and dinner,No,No,4.5
+RS051,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.6
+RS051,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,4.7
+RS051,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,4.8
+RS051,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.9
+RS051,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,3.8
+RS051,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,3.9
+RS051,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.0
+RS051,Cafe & Dessert,Americano,Drink,3500,All day,No,No,4.1
+RS052,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,12500,Breakfast to dinner,Yes,Yes,4.3
+RS052,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,7000,All day,No,Yes,4.4
+RS052,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,9000,Breakfast to dinner,No,No,4.5
+RS052,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,9500,Lunch and dinner,No,No,4.6
+RS052,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,4.7
+RS052,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,4.8
+RS052,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.9
+RS052,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,3.8
+RS052,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,3.9
+RS052,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.0
+RS052,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,4.1
+RS052,Cafe & Dessert,Americano,Drink,4000,All day,No,No,4.2
+RS053,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,13000,Breakfast to dinner,Yes,Yes,4.4
+RS053,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,7500,All day,No,Yes,4.5
+RS053,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,9500,Breakfast to dinner,No,No,4.6
+RS053,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,10000,Lunch and dinner,No,No,4.7
+RS053,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,4.8
+RS053,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.9
+RS053,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,3.8
+RS053,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,3.9
+RS053,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.0
+RS053,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,4.1
+RS053,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,4.2
+RS053,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.3
+RS054,Korean Food Court,Pork Soup Rice,Regional Signature,10500,Breakfast to dinner,Yes,Yes,4.5
+RS054,Korean Food Court,Daegu Spicy Beef Soup,Korean Meal,11000,Lunch and dinner,No,Yes,4.6
+RS054,Korean Food Court,Gyeongju Barley Bibimbap,Regional Signature,11500,Breakfast to dinner,No,No,4.7
+RS054,Korean Food Court,Miryang Pork Cutlet,Korean-Western,11500,Lunch and dinner,No,No,4.8
+RS054,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.9
+RS054,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,3.8
+RS054,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,3.9
+RS054,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.0
+RS054,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,4.1
+RS054,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,4.2
+RS054,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.3
+RS054,Cafe & Dessert,Americano,Drink,3500,All day,No,No,4.4
+RS055,Korean Food Court,Pork Soup Rice,Regional Signature,11000,Breakfast to dinner,Yes,Yes,4.6
+RS055,Korean Food Court,Daegu Spicy Beef Soup,Korean Meal,11500,Lunch and dinner,No,Yes,4.7
+RS055,Korean Food Court,Gyeongju Barley Bibimbap,Regional Signature,12000,Breakfast to dinner,No,No,4.8
+RS055,Korean Food Court,Miryang Pork Cutlet,Korean-Western,12000,Lunch and dinner,No,No,4.9
+RS055,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,3.8
+RS055,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,3.9
+RS055,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.0
+RS055,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,4.1
+RS055,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,4.2
+RS055,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.3
+RS055,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,4.4
+RS055,Cafe & Dessert,Americano,Drink,4000,All day,No,No,4.5
+RS056,Korean Food Court,Pork Soup Rice,Regional Signature,11500,Breakfast to dinner,Yes,Yes,4.7
+RS056,Korean Food Court,Daegu Spicy Beef Soup,Korean Meal,12000,Lunch and dinner,No,Yes,4.8
+RS056,Korean Food Court,Gyeongju Barley Bibimbap,Regional Signature,12500,Breakfast to dinner,No,No,4.9
+RS056,Korean Food Court,Miryang Pork Cutlet,Korean-Western,12500,Lunch and dinner,No,No,3.8
+RS056,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,3.9
+RS056,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.0
+RS056,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,4.1
+RS056,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,4.2
+RS056,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.3
+RS056,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,4.4
+RS056,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,4.5
+RS056,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.6
+RS057,Korean Food Court,Chestnut Bulgogi Rice Bowl,Regional Signature,12000,Breakfast to dinner,Yes,Yes,4.8
+RS057,Cafe & Dessert,Cheonan Walnut Pastry Set,Dessert,6500,All day,No,Yes,4.9
+RS057,Noodle Bar,Daecheon Seafood Ramyeon,Noodles,8500,Breakfast to dinner,No,No,3.8
+RS057,Noodle Bar,Geumgang River Fish Cake Noodles,Noodles,9000,Lunch and dinner,No,No,3.9
+RS057,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.0
+RS057,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,4.1
+RS057,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,4.2
+RS057,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.3
+RS057,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,4.4
+RS057,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,4.5
+RS057,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.6
+RS057,Cafe & Dessert,Americano,Drink,3500,All day,No,No,4.7
+RS058,Korean Food Court,Jeonju Bibimbap Set,Regional Signature,12500,Breakfast to dinner,Yes,Yes,4.9
+RS058,Korean Food Court,Gochujang Pork Rice Bowl,Korean Meal,11000,Lunch and dinner,No,Yes,3.8
+RS058,Korean Food Court,Namdo Tteokgalbi Plate,Regional Signature,13500,Breakfast to dinner,No,No,3.9
+RS058,Korean Food Court,Kimchi Fried Rice with Egg,Korean Meal,9500,Lunch and dinner,No,No,4.0
+RS058,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,4.1
+RS058,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,4.2
+RS058,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.3
+RS058,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,4.4
+RS058,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,4.5
+RS058,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.6
+RS058,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,4.7
+RS058,Cafe & Dessert,Americano,Drink,4000,All day,No,No,4.8
+RS059,Korean Food Court,Pork Soup Rice,Regional Signature,11500,Breakfast to dinner,Yes,Yes,3.8
+RS059,Korean Food Court,Daegu Spicy Beef Soup,Korean Meal,12000,Lunch and dinner,No,Yes,3.9
+RS059,Korean Food Court,Gyeongju Barley Bibimbap,Regional Signature,12500,Breakfast to dinner,No,No,4.0
+RS059,Korean Food Court,Miryang Pork Cutlet,Korean-Western,12500,Lunch and dinner,No,No,4.1
+RS059,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,4.2
+RS059,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.3
+RS059,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,4.4
+RS059,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,4.5
+RS059,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.6
+RS059,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,4.7
+RS059,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,4.8
+RS059,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.9
+RS060,Korean Food Court,Pork Soup Rice,Regional Signature,10500,Breakfast to dinner,Yes,Yes,3.9
+RS060,Korean Food Court,Daegu Spicy Beef Soup,Korean Meal,11000,Lunch and dinner,No,Yes,4.0
+RS060,Korean Food Court,Gyeongju Barley Bibimbap,Regional Signature,11500,Breakfast to dinner,No,No,4.1
+RS060,Korean Food Court,Miryang Pork Cutlet,Korean-Western,11500,Lunch and dinner,No,No,4.2
+RS060,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.3
+RS060,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,4.4
+RS060,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,4.5
+RS060,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.6
+RS060,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,4.7
+RS060,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,4.8
+RS060,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.9
+RS060,Cafe & Dessert,Americano,Drink,3500,All day,No,No,3.8
+RS061,Korean Food Court,Pork Soup Rice,Regional Signature,11000,Breakfast to dinner,Yes,Yes,4.0
+RS061,Korean Food Court,Daegu Spicy Beef Soup,Korean Meal,11500,Lunch and dinner,No,Yes,4.1
+RS061,Korean Food Court,Gyeongju Barley Bibimbap,Regional Signature,12000,Breakfast to dinner,No,No,4.2
+RS061,Korean Food Court,Miryang Pork Cutlet,Korean-Western,12000,Lunch and dinner,No,No,4.3
+RS061,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,4.4
+RS061,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,4.5
+RS061,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.6
+RS061,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,4.7
+RS061,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,4.8
+RS061,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.9
+RS061,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,3.8
+RS061,Cafe & Dessert,Americano,Drink,4000,All day,No,No,3.9
+RS062,Korean Food Court,Pork Soup Rice,Regional Signature,11500,Breakfast to dinner,Yes,Yes,4.1
+RS062,Korean Food Court,Daegu Spicy Beef Soup,Korean Meal,12000,Lunch and dinner,No,Yes,4.2
+RS062,Korean Food Court,Gyeongju Barley Bibimbap,Regional Signature,12500,Breakfast to dinner,No,No,4.3
+RS062,Korean Food Court,Miryang Pork Cutlet,Korean-Western,12500,Lunch and dinner,No,No,4.4
+RS062,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11500,Breakfast to dinner,No,Yes,4.5
+RS062,Korean Food Court,Kimchi Stew Set,Korean Meal,10500,Lunch and dinner,No,No,4.6
+RS062,Noodle Bar,Udon,Noodles,8000,Breakfast to dinner,No,No,4.7
+RS062,Noodle Bar,Spicy Ramyeon,Noodles,6500,Lunch and dinner,No,No,4.8
+RS062,Noodle Bar,Janchi Guksu,Noodles,8500,Breakfast to dinner,No,Yes,4.9
+RS062,Snack Corner,Sotteok Sotteok,Snack,5500,Lunch and dinner,No,No,3.8
+RS062,Snack Corner,Hot Bar Skewer,Snack,5000,Breakfast to dinner,No,No,3.9
+RS062,Cafe & Dessert,Americano,Drink,4500,All day,No,No,4.0
+RS063,Korean Food Court,Pork Soup Rice,Regional Signature,10500,Breakfast to dinner,Yes,Yes,4.2
+RS063,Korean Food Court,Daegu Spicy Beef Soup,Korean Meal,11000,Lunch and dinner,No,Yes,4.3
+RS063,Korean Food Court,Gyeongju Barley Bibimbap,Regional Signature,11500,Breakfast to dinner,No,No,4.4
+RS063,Korean Food Court,Miryang Pork Cutlet,Korean-Western,11500,Lunch and dinner,No,No,4.5
+RS063,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,10500,Breakfast to dinner,No,Yes,4.6
+RS063,Korean Food Court,Kimchi Stew Set,Korean Meal,9500,Lunch and dinner,No,No,4.7
+RS063,Noodle Bar,Udon,Noodles,7000,Breakfast to dinner,No,No,4.8
+RS063,Noodle Bar,Spicy Ramyeon,Noodles,5500,Lunch and dinner,No,No,4.9
+RS063,Noodle Bar,Janchi Guksu,Noodles,7500,Breakfast to dinner,No,Yes,3.8
+RS063,Snack Corner,Sotteok Sotteok,Snack,4500,Lunch and dinner,No,No,3.9
+RS063,Snack Corner,Hot Bar Skewer,Snack,4000,Breakfast to dinner,No,No,4.0
+RS063,Cafe & Dessert,Americano,Drink,3500,All day,No,No,4.1
+RS064,Korean Food Court,Pork Soup Rice,Regional Signature,11000,Breakfast to dinner,Yes,Yes,4.3
+RS064,Korean Food Court,Daegu Spicy Beef Soup,Korean Meal,11500,Lunch and dinner,No,Yes,4.4
+RS064,Korean Food Court,Gyeongju Barley Bibimbap,Regional Signature,12000,Breakfast to dinner,No,No,4.5
+RS064,Korean Food Court,Miryang Pork Cutlet,Korean-Western,12000,Lunch and dinner,No,No,4.6
+RS064,Korean Food Court,Beef Bulgogi Rice Bowl,Korean Meal,11000,Breakfast to dinner,No,Yes,4.7
+RS064,Korean Food Court,Kimchi Stew Set,Korean Meal,10000,Lunch and dinner,No,No,4.8
+RS064,Noodle Bar,Udon,Noodles,7500,Breakfast to dinner,No,No,4.9
+RS064,Noodle Bar,Spicy Ramyeon,Noodles,6000,Lunch and dinner,No,No,3.8
+RS064,Noodle Bar,Janchi Guksu,Noodles,8000,Breakfast to dinner,No,Yes,3.9
+RS064,Snack Corner,Sotteok Sotteok,Snack,5000,Lunch and dinner,No,No,4.0
+RS064,Snack Corner,Hot Bar Skewer,Snack,4500,Breakfast to dinner,No,No,4.1
+RS064,Cafe & Dessert,Americano,Drink,4000,All day,No,No,4.2
